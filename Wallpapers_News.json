@@ -1,7 +1,67 @@
 {
    "wallpapers": [
        
-   {
+         {
+         "author": "Ain Raadik",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20143.jpg",
+         "name": "Wall 143",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20143%20Preview.jpg",
+         "website": "https://500px.com/ainraadik",
+         "categoria": "Dope",
+         "resolucion": "1280 x 1920",
+         "tamaño": "678 KB",
+         "fecha": "05 ago. 2016" 
+      },
+       
+       {
+         "author": "Edzon DM",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20142.jpg",
+         "name": "Wall 142",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20142%20Preview.jpg",
+         "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
+         "categoria": "Dope",
+         "resolucion": "2560 x 3840",
+         "tamaño": "690 KB",
+         "fecha": "05 ago. 2016" 
+      },
+              
+      {
+         "author": "Edzon DM",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20141.jpg",
+         "name": "Wall 141",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20141%20Preview.jpg",
+         "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
+         "categoria": "Dope",
+         "resolucion": "2666 x 4000",
+         "tamaño": "502 KB",
+         "fecha": "05 ago. 2016" 
+      },
+       
+       {
+         "author": "Edzon DM",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20140.jpg",
+         "name": "Wall 140",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20140%20Preview.jpg",
+         "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
+         "categoria": "Dope",
+         "resolucion": "1280 x 1920",
+         "tamaño": "1.29 MB",
+         "fecha": "05 ago. 2016" 
+      },
+       
+       {
+         "author": "Roland Shainidze",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20139.jpg",
+         "name": "Wall 139",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20139%20Preview.jpg",
+         "website": "https://500px.com/roliketto",
+         "categoria": "Dope",
+         "resolucion": "1280 x 1920",
+         "tamaño": "809 KB",
+         "fecha": "05 ago. 2016" 
+      },         
+       
+      {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20138.jpg",
          "name": "Wall 138",
@@ -145,11 +205,6 @@
          "fecha": "05 ago. 2016" 
       },
        
-       
-       
-       
-       
-       
        {
          "author": "Nick Nice",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20126.jpg",
@@ -238,11 +293,11 @@
          "author": "Mike Cvppelli",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20119.jpg",
          "name": "Wall 119",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20119%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20119.jpg",
          "website": "https://www.flickr.com/photos/117256084@N07",
          "categoria": "Dope",
-         "resolucion": "1280 x 1920",
-         "tamaño": "643 KB",
+         "resolucion": "540 x 810",
+         "tamaño": "142 KB",
          "fecha": "05 ago. 2016" 
       },
        
@@ -254,7 +309,7 @@
          "website": "https://www.instagram.com/adm.kng",
          "categoria": "Dope",
          "resolucion": "1280 x 1920",
-         "tamaño": "304 KB",
+         "tamaño": "643 KB",
          "fecha": "05 ago. 2016" 
       },  
        
@@ -274,7 +329,7 @@
          "author": "Hannah Kemp",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20116.jpg",
          "name": "Wall 116",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20116.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20116%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
          "categoria": "Dope",
          "resolucion": "1280 x 1920",
@@ -286,7 +341,7 @@
          "author": "Gabriel Balboa",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20115.png",
          "name": "Wall 115",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20115.png",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20115%20Preview.png",
          "website": "https://500px.com/gabrielbalboa",
          "categoria": "Dope",
          "resolucion": "1000 x 1500",
