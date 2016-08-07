@@ -1,7 +1,42 @@
 {
    "wallpapers": [
        
-         {
+          {
+         "author": "Michael Salisbury",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20148.jpg",
+         "name": "Wall 148",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20148%20Preview.jpg"
+      },
+       
+       {
+         "author": "Edzon DM",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20147.jpg",
+         "name": "Wall 147",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20147%20Preview.jpg"
+      },
+              
+      {
+         "author": "Envy Avenue",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20146.jpg",
+         "name": "Wall 146",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20146%20Preview.jpg"
+      },
+       
+       {
+         "author": "Classy",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20145.jpg",
+         "name": "Wall 145",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20145%20Preview.jpg"
+      },
+       
+       {
+         "author": "Kyle Kuiper",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20144.jpg",
+         "name": "Wall 144",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20144%20Preview.jpg"
+      },
+             
+       {
          "author": "Ain Raadik",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20143.jpg",
          "name": "Wall 143",
@@ -199,9 +234,9 @@
        
        {
          "author": "Gabriel Balboa",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20115.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20115.jpg",
          "name": "Wall 115",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20115.png"
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20115%20Preview.jpg"
       },  
        
        {
