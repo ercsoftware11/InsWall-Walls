@@ -1,7 +1,31 @@
 {
    "wallpapers": [
        
-           {
+            {
+         "author": "Mitul",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20150.jpg",
+         "name": "Wall 150",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20150%20Preview.jpg",
+         "website": "http://typicalmitul.com",
+         "categoria": "Dope",
+         "resolucion": "1280 x 1920",
+         "tamaño": "735 KB",
+         "fecha": "11 ago. 2016"
+      },
+       
+       {
+         "author": "Johannes Hulsch",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20149.jpg",
+         "name": "Wall 149",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20149%20Preview.jpg",
+         "website": "https://www.eyeem.com/u/bokehm0n",
+         "categoria": "Dope",
+         "resolucion": "1280 x 1911",
+         "tamaño": "970 KB",
+         "fecha": "11 ago. 2016" 
+      },
+       
+       {
          "author": "Michael Salisbury",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20148.jpg",
          "name": "Wall 148",
@@ -62,14 +86,14 @@
       }, 
        
        {
-         "author": "Ain Raadik",
+         "author": "Oscar",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20143.jpg",
          "name": "Wall 143",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20143%20Preview.jpg",
-         "website": "https://500px.com/ainraadik",
+         "website": "",
          "categoria": "Dope",
-         "resolucion": "1280 x 1920",
-         "tamaño": "678 KB",
+         "resolucion": "3024 x 4032",
+         "tamaño": "712 KB",
          "fecha": "05 ago. 2016" 
       },
        

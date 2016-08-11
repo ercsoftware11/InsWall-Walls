@@ -2,6 +2,20 @@
    "wallpapers": [
        
           {
+         "author": "Mitul",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20150.jpg",
+         "name": "Wall 150",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20150%20Preview.jpg"
+      },
+       
+       {
+         "author": "Johannes Hulsch",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20149.jpg",
+         "name": "Wall 149",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20149%20Preview.jpg"
+      },       
+       
+          {
          "author": "Michael Salisbury",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20148.jpg",
          "name": "Wall 148",
@@ -37,7 +51,7 @@
       },
              
        {
-         "author": "Ain Raadik",
+         "author": "Oscar",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20143.jpg",
          "name": "Wall 143",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20143%20Preview.jpg"
