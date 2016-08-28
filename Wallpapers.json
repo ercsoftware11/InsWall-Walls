@@ -1,6 +1,48 @@
 {
    "wallpapers": [
-
+       
+               
+       {
+         "author": "Illkoncept",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20216.jpg",
+         "name": "Wall 216",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20216%20Preview.jpg"
+      },       
+      
+       {
+         "author": "Aaron Malloy",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20215.jpg",
+         "name": "Wall 215",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20215%20Preview.jpg"
+      }, 
+       
+      {
+         "author": "Victor Chadarov",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20214.jpg",
+         "name": "Wall 214",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20214%20Preview.jpg"
+      }, 
+              
+      {
+         "author": "Kndrck",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20213.jpg",
+         "name": "Wall 213",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20213%20Preview.jpg"
+      },   
+      
+       {
+         "author": "Daniel Ernst",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20212.jpg",
+         "name": "Wall 212",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20212%20Preview.jpg"
+      },       
+      
+       {
+         "author": "Melanie McKay",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20211.jpg",
+         "name": "Wall 211",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20211%20Preview.jpg"
+      },  
        
        {
          "author": "Brett",
@@ -38,8 +80,8 @@
       },       
       
        {
-         "author": "Evgeny Freyer",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20205.png",
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20205.jpg",
          "name": "Wall 205",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20205%20Preview.jpg"
       }, 
@@ -1382,8 +1424,8 @@
       },
 
       {
-         "author": "Nico Ivarra",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2013.jpg",
+         "author": "Evgeny Freyer",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2013.png",
          "name": "Wall 13",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2013%20Preview.jpg"
       },
