@@ -1,6 +1,33 @@
 {
    "wallpapers": [
        
+       {
+         "author": "Abigail Keenan",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20244.jpg",
+         "name": "Wall 244",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20244%20Preview.jpg"
+      },       
+      
+       {
+         "author": "Linnea Sandbakk",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20243.jpg",
+         "name": "Wall 243",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20243%20Preview.jpg"
+      },  
+       
+       {
+         "author": "Paul Gilmore",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20242.jpg",
+         "name": "Wall 242",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20242%20Preview.jpg"
+      },       
+      
+       {
+         "author": "Dinh Hung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20241.jpg",
+         "name": "Wall 241",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20241%20Preview.jpg"
+      },     
        
         {
          "author": "Bryson Gibbons",
