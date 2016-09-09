@@ -1,6 +1,79 @@
 {
    "wallpapers": [ 
        
+        {
+         "author": "Sergio Arze",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20252.jpg",
+         "name": "Wall 252",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20252%20Preview.jpg",
+         "website": "https://unsplash.com/@sergich",
+         "categoria": "Plant",
+         "resolucion": "1280 x 1920",
+         "tamaño": "1.56 MB",
+         "fecha": "09 sep. 2016"
+      }, 
+       
+       {
+         "author": "Calvin Lupiya",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20251.jpg",
+         "name": "Wall 251",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20251%20Preview.jpg",
+         "website": "https://www.instagram.com/calvinvisuals",
+         "categoria": "People",
+         "resolucion": "1280 x 1920",
+         "tamaño": "535 KB",
+         "fecha": "09 sep. 2016"
+      },       
+      
+       {
+         "author": "Rodion Kutsaev",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20250.jpg",
+         "name": "Wall 250",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20250%20Preview.jpg",
+         "website": "https://unsplash.com/@frostroomhead",
+         "categoria": "Plant",
+         "resolucion": "1280 x 1920",
+         "tamaño": "301 KB",
+         "fecha": "09 sep. 2016"
+      },         
+       
+       {
+         "author": "Angelina Litvin",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20249.jpg",
+         "name": "Wall 249",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20249%20Preview.jpg",
+         "website": "https://www.instagram.com/linalitvina",
+         "categoria": "Object",
+         "resolucion": "1280 x 1920",
+         "tamaño": "410 KB",
+         "fecha": "09 sep. 2016"
+      },    
+       
+       
+       {
+         "author": "Irene Dávila",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20248.jpg",
+         "name": "Wall 248",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20248%20Preview.jpg",
+         "website": "https://unsplash.com/@irenedavila",
+         "categoria": "Animal",
+         "resolucion": "1280 x 1920",
+         "tamaño": "578 KB",
+         "fecha": "09 sep. 2016"
+      },       
+      
+       {
+         "author": "Clark Young",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20247.jpg",
+         "name": "Wall 247",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20247%20Preview.jpg",
+         "website": "https://unsplash.com/@clark1",
+         "categoria": "Fire",
+         "resolucion": "1280 x 1920",
+         "tamaño": "697 KB",
+         "fecha": "09 sep. 2016"
+      },
+       
       {
          "author": "Priscilla Westra",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20246.jpg",
@@ -31,7 +104,7 @@
          "name": "Wall 244",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20244%20Preview.jpg",
          "website": "http://www.abigailkeenan.com",
-         "categoria": "Girl",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
          "tamaño": "1.27 MB",
          "fecha": "06 sep. 2016"
@@ -87,13 +160,13 @@
       
        {
          "author": "Marco P",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20239.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20239.jpg",
          "name": "Wall 239",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20239%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+forgeanimdroidkerk",
-         "categoria": "Forest",
-         "resolucion": "1440 x 2560",
-         "tamaño": "2.55 MB",
+         "categoria": "Plant",
+         "resolucion": "1280 x 1920",
+         "tamaño": "908 KB",
          "fecha": "03 sep. 2016"
       }, 
        
@@ -151,21 +224,21 @@
          "name": "Wall 234",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20234%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Forest",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "242 KB",
          "fecha": "03 sep. 2016"
       }, 
        
        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20233.jpg",
+         "author": "Tom Freitas",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20233.png",
          "name": "Wall 233",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20233%20Preview.jpg",
-         "website": "",
-         "categoria": "Animal",
-         "resolucion": "1180 x 1770",
-         "tamaño": "434 KB",
+         "website": "https://plus.google.com/u/0/106397301300651040833",
+         "categoria": "Plant",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.88 MB",
          "fecha": "03 sep. 2016"
       },   
       
@@ -295,7 +368,7 @@
          "name": "Wall 222",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20222%20Preview.jpg",
          "website": "https://www.instagram.com/travelvsco.ig",
-         "categoria": "Forest",
+         "categoria": "Plant",
          "resolucion": "1000 x 1500",
          "tamaño": "1.51 MB",
          "fecha": "03 sep. 2016"
@@ -440,7 +513,7 @@
          "name": "Wall 210",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20210%20Preview.jpg",
          "website": "https://www.instagram.com/mammothstock",
-         "categoria": "Lagoon",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "686 KB",
          "fecha": "28 ago. 2016"
@@ -452,7 +525,7 @@
          "name": "Wall 209",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20209%20Preview.jpg",
          "website": "https://www.flickr.com/photos/olkaprod",
-         "categoria": "Girl",
+         "categoria": "People",
          "resolucion": "910 x 1365",
          "tamaño": "1.21 MB",
          "fecha": "28 ago. 2016"
@@ -488,7 +561,7 @@
          "name": "Wall 206",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20206%20Preview.jpg",
          "website": "https://www.instagram.com/teapalm",
-         "categoria": "River",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "1.36 MB",
          "fecha": "28 ago. 2016"
@@ -548,21 +621,21 @@
          "name": "Wall 201",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20201%20Preview.jpg",
          "website": "https://plus.google.com/u/0/116805479661224479795",
-         "categoria": "Forest",
+         "categoria": "Plant",
          "resolucion": "1152 x 2048",
          "tamaño": "736 KB",
          "fecha": "25 ago. 2016"
       }, 
        
       {
-         "author": "Vinnie",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20200.jpg",
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20200.png",
          "name": "Wall 200",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20200%20Preview.jpg",
-         "website": "https://www.instagram.com/vvnnie",
+         "website": "https://plus.google.com/u/0/+RutwikPatel246",
          "categoria": "Sea",
-         "resolucion": "1280 x 1920",
-         "tamaño": "778 KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "2.04 MB",
          "fecha": "25 ago. 2016"
       },       
       
@@ -656,7 +729,7 @@
          "name": "Wall 192",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20192%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Urban",
+         "categoria": "Bridge",
          "resolucion": "1080 x 1920",
          "tamaño": "1 MB",
          "fecha": "25 ago. 2016"
@@ -668,7 +741,7 @@
          "name": "Wall 191",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20191%20Preview.jpg",
          "website": "https://www.flickr.com/people/jwheel243",
-         "categoria": "Road",
+         "categoria": "Car",
          "resolucion": "1280 x 1920",
          "tamaño": "721 KB",
          "fecha": "25 ago. 2016"
@@ -692,7 +765,7 @@
          "name": "Wall 189",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20189%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+forgeanimdroidkerk",
-         "categoria": "Forest",
+         "categoria": "Plant",
          "resolucion": "1080 x 1920",
          "tamaño": "1.25 MB",
          "fecha": "21 ago. 2016"
@@ -728,7 +801,7 @@
          "name": "Wall 186",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20186%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+forgeanimdroidkerk",
-         "categoria": "Forest",
+         "categoria": "Plant",
          "resolucion": "1080 x 1920",
          "tamaño": "1.50 MB",
          "fecha": "21 ago. 2016"
@@ -764,7 +837,7 @@
          "name": "Wall 183",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20183%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+forgeanimdroidkerk",
-         "categoria": "Urban",
+         "categoria": "Bridge",
          "resolucion": "1080 x 1920",
          "tamaño": "718 KB",
          "fecha": "21 ago. 2016"
@@ -843,14 +916,14 @@
       }, 
        
        {
-         "author": "Unknown",
+         "author": "Jevgenij",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20176.jpg",
          "name": "Wall 176",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20176%20Preview.jpg",
-         "website": "",
-         "categoria": "Sea",
+         "website": "https://unsplash.com/@jevgenijvoronov",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
-         "tamaño": "862 KB",
+         "tamaño": "1.03 MB",
          "fecha": "16 ago. 2016"
       }, 
        
@@ -979,21 +1052,21 @@
          "name": "Wall 165",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20165%20Preview.jpg",
          "website": "https://plus.google.com/u/0/104536858931163612619",
-         "categoria": "Urban",
+         "categoria": "Car",
          "resolucion": "1280 x 1920",
          "tamaño": "1.24 MB",
          "fecha": "13 ago. 2016"
       },
        
         {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20164.jpg",
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20164.png",
          "name": "Wall 164",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20164%20Preview.jpg",
-         "website": "",
-         "categoria": "Animal",
-         "resolucion": "682 x 1024",
-         "tamaño": "515 KB",
+         "website": "https://plus.google.com/u/0/+RutwikPatel246",
+         "categoria": "Sea",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.27 MB",
          "fecha": "13 ago. 2016"
       },
        
@@ -1195,7 +1268,7 @@
          "name": "Wall 147",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20147%20Preview.jpg",
          "website": "https://plus.google.com/u/0/104536858931163612619",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
          "tamaño": "1.43 MB",
          "fecha": "06 ago. 2016" 
@@ -1207,7 +1280,7 @@
          "name": "Wall 146",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20146%20Preview.jpg",
          "website": "https://www.instagram.com/envyavenue",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1000 x 1500",
          "tamaño": "258 KB",
          "fecha": "06 ago. 2016" 
@@ -1219,21 +1292,21 @@
          "name": "Wall 145",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20145%20Preview.jpg",
          "website": "http://classyxsexxy.tumblr.com/",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "735 KB",
          "fecha": "06 ago. 2016" 
       },
        
        {
-         "author": "Kyle Kuiper",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20144.jpg",
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20144.png",
          "name": "Wall 144",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20144%20Preview.jpg",
-         "website": "https://500px.com/kdkuiper",
-         "categoria": "Dope",
-         "resolucion": "1280 x 1920",
-         "tamaño": "720 KB",
+         "website": "https://plus.google.com/u/0/+RutwikPatel246",
+         "categoria": "Animal",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.76 MB",
          "fecha": "06 ago. 2016" 
       }, 
        
@@ -1243,7 +1316,7 @@
          "name": "Wall 143",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20143%20Preview.jpg",
          "website": "",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "532 KB",
          "fecha": "05 ago. 2016" 
@@ -1255,7 +1328,7 @@
          "name": "Wall 142",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20142%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "728 KB",
          "fecha": "05 ago. 2016" 
@@ -1267,7 +1340,7 @@
          "name": "Wall 141",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20141%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "643 KB",
          "fecha": "05 ago. 2016" 
@@ -1279,7 +1352,7 @@
          "name": "Wall 140",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20140%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "1.29 MB",
          "fecha": "05 ago. 2016" 
@@ -1291,7 +1364,7 @@
          "name": "Wall 139",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20139%20Preview.jpg",
          "website": "https://500px.com/roliketto",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "809 KB",
          "fecha": "05 ago. 2016" 
@@ -1303,21 +1376,21 @@
          "name": "Wall 138",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20138%20Preview.jpg",
          "website": "",
-         "categoria": "Dope",
+         "categoria": "Car",
          "resolucion": "1280 x 1920",
          "tamaño": "390 KB",
          "fecha": "05 ago. 2016" 
       },
        
        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20137.jpg",
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20137.png",
          "name": "Wall 137",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20137%20Preview.jpg",
-         "website": "",
-         "categoria": "Dope",
-         "resolucion": "1280 x 1920",
-         "tamaño": "585 KB",
+         "website": "https://plus.google.com/u/0/+RutwikPatel246",
+         "categoria": "People",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.35 MB",
          "fecha": "05 ago. 2016" 
       },
               
@@ -1327,7 +1400,7 @@
          "name": "Wall 136",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20136%20Preview.jpg",
          "website": "https://www.instagram.com/garinwood",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "422 KB",
          "fecha": "05 ago. 2016" 
@@ -1339,33 +1412,33 @@
          "name": "Wall 135",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20135%20Preview.jpg",
          "website": "https://www.instagram.com/garinwood",
-         "categoria": "Dope",
+         "categoria": "Mountain",
          "resolucion": "1280 x 1920",
          "tamaño": "601 KB",
          "fecha": "05 ago. 2016" 
       },
        
        {
-         "author": "Brett",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20134.jpg",
+         "author": "Rutwik Patel",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20134.png",
          "name": "Wall 134",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20134%20Preview.jpg",
-         "website": "https://www.instagram.com/mammothstock",
-         "categoria": "Dope",
-         "resolucion": "1280 x 1920",
-         "tamaño": "598 KB",
+         "website": "https://plus.google.com/u/0/+RutwikPatel246",
+         "categoria": "Sea",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.49 MB",
          "fecha": "05 ago. 2016" 
       },
        
        {
-         "author": "Hannah Kemp",
+         "author": "Rutwik Patel",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20133.jpg",
          "name": "Wall 133",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20133%20Preview.jpg",
-         "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "website": "https://plus.google.com/u/0/+RutwikPatel246",
+         "categoria": "Fire",
          "resolucion": "1280 x 1920",
-         "tamaño": "713 KB",
+         "tamaño": "980 KB",
          "fecha": "05 ago. 2016" 
       },
               
@@ -1375,7 +1448,7 @@
          "name": "Wall 132",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20132%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "692 KB",
          "fecha": "05 ago. 2016" 
@@ -1387,7 +1460,7 @@
          "name": "Wall 131",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20131%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "427 KB",
          "fecha": "05 ago. 2016" 
@@ -1399,7 +1472,7 @@
          "name": "Wall 130",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20130%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "728 KB",
          "fecha": "05 ago. 2016" 
@@ -1411,7 +1484,7 @@
          "name": "Wall 129",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20129%20Preview.jpg",
          "website": "https://www.instagram.com/twintheworld",
-         "categoria": "Dope",
+         "categoria": "Mountain",
          "resolucion": "899 x 1349",
          "tamaño": "394 KB",
          "fecha": "05 ago. 2016" 
@@ -1423,7 +1496,7 @@
          "name": "Wall 128",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20128%20Preview.png",
          "website": "https://www.flickr.com/photos/gooroophotography",
-         "categoria": "Dope",
+         "categoria": "Waterfall",
          "resolucion": "960 x 1440",
          "tamaño": "1.44 MB",
          "fecha": "05 ago. 2016" 
@@ -1435,7 +1508,7 @@
          "name": "Wall 127",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20127%20Preview.jpg",
          "website": "https://www.instagram.com/adm.kng",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "920 KB",
          "fecha": "05 ago. 2016" 
@@ -1447,7 +1520,7 @@
          "name": "Wall 126",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20126%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1152 x 2048",
          "tamaño": "401 KB",
          "fecha": "05 ago. 2016" 
@@ -1459,7 +1532,7 @@
          "name": "Wall 125",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20125%20Preview.jpg",
          "website": "https://plus.google.com/u/0/116805479661224479795",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1080 x 1348",
          "tamaño": "277 KB",
          "fecha": "05 ago. 2016" 
@@ -1471,7 +1544,7 @@
          "name": "Wall 124",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20124%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Sea",
          "resolucion": "1080 x 1920",
          "tamaño": "1.99 MB",
          "fecha": "05 ago. 2016" 
@@ -1483,7 +1556,7 @@
          "name": "Wall 123",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20123%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1080 x 1920",
          "tamaño": "1.37 MB",
          "fecha": "05 ago. 2016" 
@@ -1495,7 +1568,7 @@
          "name": "Wall 122",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20122%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1080 x 1920",
          "tamaño": "1.44 MB",
          "fecha": "05 ago. 2016" 
@@ -1507,7 +1580,7 @@
          "name": "Wall 121",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20121%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1080 x 1920",
          "tamaño": "1.06 MB",
          "fecha": "05 ago. 2016" 
@@ -1519,33 +1592,33 @@
          "name": "Wall 120",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20120%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1080 x 1920",
          "tamaño": "1.11 MB",
          "fecha": "05 ago. 2016" 
       },  
               
        {
-         "author": "Mike Cvppelli",
+         "author": "Freddie Marriage",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20119.jpg",
          "name": "Wall 119",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20119.jpg",
-         "website": "https://www.flickr.com/photos/117256084@N07",
-         "categoria": "Dope",
-         "resolucion": "540 x 810",
-         "tamaño": "142 KB",
+         "website": "https://unsplash.com/@fredmarriage",
+         "categoria": "Forest",
+         "resolucion": "1280 x 1920",
+         "tamaño": "1.72 MB",
          "fecha": "05 ago. 2016" 
       },
        
        {
-         "author": "Adam King",
+         "author": "Averie Woodard",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20118.jpg",
          "name": "Wall 118",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20118%20Preview.jpg",
-         "website": "https://www.instagram.com/adm.kng",
-         "categoria": "Dope",
+         "website": "https://unsplash.com/@averieclaire",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
-         "tamaño": "643 KB",
+         "tamaño": "404 KB",
          "fecha": "05 ago. 2016" 
       },  
        
@@ -1555,7 +1628,7 @@
          "name": "Wall 117",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20117%20Preview.jpg",
          "website": "https://www.instagram.com/adm.kng",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "299 KB",
          "fecha": "05 ago. 2016"   
@@ -1567,7 +1640,7 @@
          "name": "Wall 116",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20116%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "760 KB",
          "fecha": "01 ago. 2016"            
@@ -1579,10 +1652,10 @@
          "name": "Wall 115",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20115%20Preview.jpg",
          "website": "https://500px.com/gabrielbalboa",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1000 x 1500",
          "tamaño": "420 KB",
-         "fecha": "01 ago. 2016"   
+         "fecha": "01 ago. 2016"
       }, 
        
        {
@@ -1591,21 +1664,21 @@
          "name": "Wall 114",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20114%20Preview.jpg",
          "website": "https://www.instagram.com/dpc_photography_",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1152 x 1536",
          "tamaño": "268 KB",
          "fecha": "23 jul. 2016"   
       },
        
        {
-         "author": "Adam King",
+         "author": "Dan Carlson",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20113.jpg",
          "name": "Wall 113",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20113%20Preview.jpg" ,
-         "website": "https://www.instagram.com/adm.kng",
-         "categoria": "Dope",
+         "website": "https://unsplash.com/@dan_carl5on",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
-         "tamaño": "395 KB",
+         "tamaño": "509 KB",
          "fecha": "23 jul. 2016" 
       },           
        
@@ -1615,7 +1688,7 @@
          "name": "Wall 112",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20112%20Preview.jpg" ,
          "website": "https://www.instagram.com/bokehm0n",
-         "categoria": "Dope",
+         "categoria": "Mountain",
          "resolucion": "1280 x 1911",
          "tamaño": "762 KB",
          "fecha": "23 jul. 2016" 
@@ -1627,7 +1700,7 @@
          "name": "Wall 111",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20111%20Preview.jpg" ,
          "website": "https://www.instagram.com/bokehm0n",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1911",
          "tamaño": "1.01 MB",
          "fecha": "23 jul. 2016" 
@@ -1640,7 +1713,7 @@
          "name": "Wall 110",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20110%20Preview.jpg" ,
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
          "tamaño": "522 KB",
          "fecha": "23 jul. 2016" 
@@ -1652,7 +1725,7 @@
          "name": "Wall 109",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20109%20Preview.jpg" ,
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Car",
          "resolucion": "1280 x 1920",
          "tamaño": "462 KB",
          "fecha": "23 jul. 2016" 
@@ -1664,7 +1737,7 @@
          "name": "Wall 108",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20108%20Preview.png" ,
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1080 x 1920",
          "tamaño": "1.14 MB",
          "fecha": "21 jul. 2016" 
@@ -1676,7 +1749,7 @@
          "name": "Wall 107",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20107%20Preview.png" ,
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1080 x 1920",
          "tamaño": "1.18 MB",
          "fecha": "21 jul. 2016" 
@@ -1688,7 +1761,7 @@
          "name": "Wall 106",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20106%20Preview.jpg" ,
          "website": "https://plus.google.com/u/0/116805479661224479795",
-         "categoria": "Dope",
+         "categoria": "Technology",
          "resolucion": "1280 x 1920",
          "tamaño": "318 KB",
          "fecha": "21 jul. 2016" 
@@ -1700,7 +1773,7 @@
          "name": "Wall 105",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20105%20Preview.jpg" ,
          "website": "https://plus.google.com/u/0/116805479661224479795",
-         "categoria": "Dope",
+         "categoria": "Car",
          "resolucion": "1242 x 2208",
          "tamaño": "313 KB",
          "fecha": "21 jul. 2016" 
@@ -1712,7 +1785,7 @@
          "name": "Wall 104",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20104%20Preview.png",
          "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1440 x 2560",
          "tamaño": "1.35 MB",
          "fecha": "19 jul. 2016"   
@@ -1724,7 +1797,7 @@
          "name": "Wall 103",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20103%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1080 x 1349",
          "tamaño": "146 KB",
          "fecha": "19 jul. 2016"   
@@ -1736,7 +1809,7 @@
          "name": "Wall 102",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20102%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Road",
          "resolucion": "1080 x 1920",
          "tamaño": "1.27 MB",
          "fecha": "19 jul. 2016"   
@@ -1748,7 +1821,7 @@
          "name": "Wall 101",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20101%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1080 x 1920",
          "tamaño": "1 MB",
          "fecha": "19 jul. 2016"   
@@ -1760,7 +1833,7 @@
          "name": "Wall 100",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20100%20Preview.png",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1080 x 1920",
          "tamaño": "1 MB",
          "fecha": "17 jul. 2016"   
@@ -1784,7 +1857,7 @@
          "name": "Wall 98",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2098%20Preview.jpg",
          "website": "https://www.instagram.com/xshaydx",
-         "categoria": "Dope",
+         "categoria": "Fire",
          "resolucion": "1280 x 1920",
          "tamaño": "497 KB",
          "fecha": "17 jul. 2016"   
@@ -1796,20 +1869,20 @@
          "name": "Wall 97",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2097%20Preview.jpg",
          "website": "https://www.instagram.com/matialonsor",
-         "categoria": "Dope",
+         "categoria": "Waterfall",
          "resolucion": "1280 x 1920",
          "tamaño": "1,04 MB",
          "fecha": "17 jul. 2016"   
       },
        
       {
-         "author": "Edzon DM",
+         "author": "Aleja",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2096.jpg",
          "name": "Wall 96",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2096%20Preview.jpg",
-         "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
-         "resolucion": "458 x 640",
+         "website": "https://unsplash.com/@aleja_restrepo",
+         "categoria": "Animal",
+         "resolucion": "1280 x 1920",
          "tamaño": "88.5 KB",
          "fecha": "17 jul. 2016"   
       }, 
@@ -1820,7 +1893,7 @@
          "name": "Wall 95",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2095%20Preview.jpg",
          "website": "https://www.instagram.com/imthejam",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1919",
          "tamaño": "585 KB",
          "fecha": "17 jul. 2016"   
@@ -1832,7 +1905,7 @@
          "name": "Wall 94",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2094%20Preview.jpg",
          "website": "https://www.instagram.com/imthejam",
-         "categoria": "Dope",
+         "categoria": "Bridge",
          "resolucion": "1280 x 1919",
          "tamaño": "619 KB",
          "fecha": "17 jul. 2016"   
@@ -1844,7 +1917,7 @@
          "name": "Wall 93",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2093%20Preview.jpg",
          "website": "https://www.instagram.com/imthejam",
-         "categoria": "Dope",
+         "categoria": "Bridge",
          "resolucion": "1280 x 1919",
          "tamaño": "709 KB",
          "fecha": "17 jul. 2016"   
@@ -1856,7 +1929,7 @@
          "name": "Wall 92",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2092%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1080 x 1920",
          "tamaño": "261 KB",
          "fecha": "17 jul. 2016"   
@@ -1868,7 +1941,7 @@
          "name": "Wall 91",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2091%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "1.13 MB",
          "fecha": "17 jul. 2016"   
@@ -1880,7 +1953,7 @@
          "name": "Wall 90",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2090%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1080 x 1920",
          "tamaño": "1.83 MB",
          "fecha": "15 jul. 2016"   
@@ -1892,7 +1965,7 @@
          "name": "Wall 89",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2089%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1080 x 1920",
          "tamaño": "1.05 MB",
          "fecha": "15 jul. 2016"   
@@ -1904,7 +1977,7 @@
          "name": "Wall 88",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2088%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "939 KB",
          "fecha": "15 jul. 2016"   
@@ -1916,7 +1989,7 @@
          "name": "Wall 87",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2087%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1000 x 1500",
          "tamaño": "389 KB",
          "fecha": "15 jul. 2016"   
@@ -1928,7 +2001,7 @@
          "name": "Wall 86",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2086%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "1 MB",
          "fecha": "15 jul. 2016"   
@@ -1940,7 +2013,7 @@
          "name": "Wall 85",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2085%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Car",
          "resolucion": "1000 x 1500",
          "tamaño": "748 KB",
          "fecha": "15 jul. 2016"   
@@ -1952,7 +2025,7 @@
          "name": "Wall 84",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2084%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1080 x 1920",
          "tamaño": "1.34 MB",
          "fecha": "15 jul. 2016"   
@@ -1964,7 +2037,7 @@
          "name": "Wall 83",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2083%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1079 x 1776",
          "tamaño": "331 KB",
          "fecha": "15 jul. 2016"   
@@ -1976,7 +2049,7 @@
          "name": "Wall 82",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2082%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1365 x 2048",
          "tamaño": "238 KB",
          "fecha": "15 jul. 2016"   
@@ -1988,7 +2061,7 @@
          "name": "Wall 81",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2081%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Technology",
          "resolucion": "1280 x 1920",
          "tamaño": "480 KB",
          "fecha": "15 jul. 2016"   
@@ -2000,7 +2073,7 @@
          "name": "Wall 80",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2080%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Object",
          "resolucion": "1080 x 1780",
          "tamaño": "217 KB",
          "fecha": "15 jul. 2016"   
@@ -2012,7 +2085,7 @@
          "name": "Wall 79",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2079%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Mountain",
          "resolucion": "1080 x 1920",
          "tamaño": "1.44 MB",
          "fecha": "15 jul. 2016"   
@@ -2024,7 +2097,7 @@
          "name": "Wall 78",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2078%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Object",
          "resolucion": "1280 x 1920",
          "tamaño": "202 KB",
          "fecha": "15 jul. 2016"   
@@ -2036,21 +2109,21 @@
          "name": "Wall 77",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2077%20Preview.png",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1080 x 1920",
          "tamaño": "1.35 MB",
          "fecha": "15 jul. 2016"   
       }, 
         
        {
-         "author": "André",
+         "author": "Sokoloff Lingerie",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2076.jpg",
          "name": "Wall 76",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2076%20Preview.jpg",
-         "website": "http://lsleofskye.tumblr.com",
-         "categoria": "Dope",
-         "resolucion": "931 x 1397",
-         "tamaño": "1.33 MB",
+         "website": "https://unsplash.com/@sokoloff",
+         "categoria": "People",
+         "resolucion": "1280 x 1920",
+         "tamaño": "627 KB",
          "fecha": "15 jul. 2016"   
       }, 
        {
@@ -2059,7 +2132,7 @@
          "name": "Wall 75",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2075%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "Animal",
          "resolucion": "600 x 900",
          "tamaño": "634 KB",
          "fecha": "15 jul. 2016"   
@@ -2071,7 +2144,7 @@
          "name": "Wall 74",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2074%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Waterfall",
          "resolucion": "1280 x 1920",
          "tamaño": "771 KB",
          "fecha": "15 jul. 2016"   
@@ -2083,7 +2156,7 @@
          "name": "Wall 73",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2073%20Preview.jpg",
          "website": "https://www.instagram.com/garinwood",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "970 KB",
          "fecha": "15 jul. 2016"   
@@ -2095,7 +2168,7 @@
          "name": "Wall 72",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2072%20Preview.jpg",
          "website": "http://snorkeldink.tumblr.com",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "853 x 1280",
          "tamaño": "155 KB",
          "fecha": "15 jul. 2016"   
@@ -2107,7 +2180,7 @@
          "name": "Wall 71",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2071%20Preview.jpg",
          "website": "https://www.instagram.com/sannalinn",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "892 KB",
          "fecha": "15 jul. 2016"   
@@ -2119,7 +2192,7 @@
          "name": "Wall 70",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2070%20Preview.jpg",
          "website": "https://www.instagram.com/young.seeker",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "553 KB",
          "fecha": "15 jul. 2016"   
@@ -2131,7 +2204,7 @@
          "name": "Wall 69",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2069%20Preview.jpg",
          "website": "https://www.instagram.com/young.seeker",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "960 KB",
          "fecha": "15 jul. 2016"   
@@ -2143,21 +2216,21 @@
          "name": "Wall 68",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2068%20Preview.jpg",
          "website": "https://www.instagram.com/goian",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
          "tamaño": "751 KB",
          "fecha": "13 jul. 2016"   
       }, 
 
       {
-         "author": "Hannah Kemp",
+         "author": "Denys Nevozhai",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2067.jpg",
          "name": "Wall 67",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2067%20Preview.jpg",
-         "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
-         "resolucion": "1280 x 1892",
-         "tamaño": "415 KB",
+         "website": "https://unsplash.com/@dnevozhai",
+         "categoria": "Bridge",
+         "resolucion": "1280 x 1920",
+         "tamaño": "980 KB",
          "fecha": "13 jul. 2016"   
       },
                   
@@ -2167,7 +2240,7 @@
          "name": "Wall 66",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2066%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "636 KB",
          "fecha": "13 jul. 2016"   
@@ -2179,7 +2252,7 @@
          "name": "Wall 65",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2065%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "387 KB",
          "fecha": "13 jul. 2016"   
@@ -2191,7 +2264,7 @@
          "name": "Wall 64",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2064%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "500 KB",
          "fecha": "13 jul. 2016"   
@@ -2203,21 +2276,21 @@
          "name": "Wall 63",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2063%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
-         "resolucion": "1280 x 1377",
-         "tamaño": "448 KB",
+         "categoria": "Urban",
+         "resolucion": "1280 x 1920",
+         "tamaño": "515 KB",
          "fecha": "13 jul. 2016"   
       }, 
 
       {
-         "author": "Hannah Kemp",
+         "author": "Mariette Harms",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2062.jpg",
          "name": "Wall 62",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2062%20Preview.jpg",
-         "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
-         "resolucion": "1080 x 1920",
-         "tamaño": "761 KB",
+         "website": "https://unsplash.com/@mariette",
+         "categoria": "Urban",
+         "resolucion": "1280 x 1920",
+         "tamaño": "832 KB",
          "fecha": "13 jul. 2016"   
       },
                   
@@ -2227,7 +2300,7 @@
          "name": "Wall 61",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2061%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1080 x 1920",
          "tamaño": "573 KB",
          "fecha": "13 jul. 2016"     
@@ -2239,7 +2312,7 @@
          "name": "Wall 60",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2060%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "739 KB",
          "fecha": "13 jul. 2016"   
@@ -2251,7 +2324,7 @@
          "name": "Wall 59",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2059%20Preview.jpg",
          "website": "https://www.instagram.com/wowhannah",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "334 KB",
          "fecha": "13 jul. 2016"   
@@ -2263,7 +2336,7 @@
          "name": "Wall 58",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2058%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "Car",
          "resolucion": "1000 x 1500",
          "tamaño": "362 KB",
          "fecha": "13 jul. 2016"   
@@ -2275,7 +2348,7 @@
          "name": "Wall 57",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2057%20Preview.jpg",
          "website": "",
-         "categoria": "Dope",
+         "categoria": "Sea",
          "resolucion": "1280 x 1920",
          "tamaño": "808 KB",
          "fecha": "13 jul. 2016"   
@@ -2287,7 +2360,7 @@
          "name": "Wall 56",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2056%20Preview.jpg",
          "website": "https://www.instagram.com/paul_gilmore",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "1.18 MB",
          "fecha": "13 jul. 2016"   
@@ -2299,7 +2372,7 @@
          "name": "Wall 55",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2055%20Preview.png",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Road",
          "resolucion": "1080 x 1920",
          "tamaño": "2.89 MB",
          "fecha": "13 jul. 2016"   
@@ -2311,7 +2384,7 @@
          "name": "Wall 54",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2054%20Preview.jpg",
          "website": "https://plus.google.com/116805479661224479795",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1049 x 1573",
          "tamaño": "524 KB",
          "fecha": "11 jul. 2016"   
@@ -2323,21 +2396,21 @@
          "name": "Wall 53",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2053%20Preview.jpg",
          "website": "https://plus.google.com/116805479661224479795",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1280 x 1920",
          "tamaño": "769 KB",
          "fecha": "11 jul. 2016"   
       },
 
       {
-         "author": "Joshua Bastin",
+         "author": "Maxine Yang",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2052.jpg",
          "name": "Wall 52",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2052%20Preview.jpg",
-         "website": "https://plus.google.com/116805479661224479795",
-         "categoria": "Dope",
-         "resolucion": "1242 x 1208",
-         "tamaño": "284 KB",
+         "website": "https://unsplash.com/@iam_miaop",
+         "categoria": "Urban",
+         "resolucion": "1280 x 1920",
+         "tamaño": "690 KB",
          "fecha": "11 jul. 2016"   
       },
 
@@ -2347,7 +2420,7 @@
          "name": "Wall 51",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2051%20Preview.jpg",
          "website": "https://plus.google.com/116805479661224479795",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1918",
          "tamaño": "1.24 MB",
          "fecha": "11 jul. 2016"   
@@ -2359,21 +2432,21 @@
          "name": "Wall 50",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2050%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "1.29 MB",
          "fecha": "11 jul. 2016"   
       }, 
 
       {
-         "author": "Thom Freitas",
+         "author": "Larm Rmah",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2049.jpg",
          "name": "Wall 49",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2049%20Preview.jpg",
-         "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
-         "resolucion": "899 x 1349",
-         "tamaño": "1.02 MB",
+         "website": "https://unsplash.com/@larm",
+         "categoria": "People",
+         "resolucion": "1280 x 1920",
+         "tamaño": "1.16 MB",
          "fecha": "11 jul. 2016"   
       },
 
@@ -2383,21 +2456,21 @@
          "name": "Wall 48",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2048%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1638 x 2048",
          "tamaño": "1.13 MB",
          "fecha": "11 jul. 2016"   
       },
 
       {
-         "author": "Thom Freitas",
+         "author": "Brad Fickeisen",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2047.jpg",
          "name": "Wall 47",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2047%20Preview.jpg",
-         "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
-         "resolucion": "1080 x 1771",
-         "tamaño": "988 KB",
+         "website": "https://unsplash.com/@bradfickeisen",
+         "categoria": "Fire",
+         "resolucion": "1280 x 1920",
+         "tamaño": "1.08 MB",
          "fecha": "11 jul. 2016"   
       },
 
@@ -2407,7 +2480,7 @@
          "name": "Wall 46",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2046%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1000 x 1500",
          "tamaño": "327 KB",
          "fecha": "11 jul. 2016"   
@@ -2419,7 +2492,7 @@
          "name": "Wall 45",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2045%20Preview.jpg",
          "website": "https://plus.google.com/u/0/106397301300651040833",
-         "categoria": "Dope",
+         "categoria": " Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "789 KB",
          "fecha": "11 jul. 2016"   
@@ -2431,7 +2504,7 @@
          "name": "Wall 44",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2044%20Preview.jpg",
          "website": "http://www.miui.ch/wallpapers",
-         "categoria": "Dope",
+         "categoria": "Animal",
          "resolucion": "1280 x 1918",
          "tamaño": "1.33 MB",
          "fecha": "09 jul. 2016"   
@@ -2443,7 +2516,7 @@
          "name": "Wall 43",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2043%20Preview.jpg",
          "website": "http://www.miui.ch/wallpapers",
-         "categoria": "Dope",
+         "categoria": "Animal",
          "resolucion": "1000 x 1500",
          "tamaño": "718 KB",
          "fecha": "09 jul. 2016"   
@@ -2455,7 +2528,7 @@
          "name": "Wall 42",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2042%20Preview.jpg",
          "website": "http://www.miui.ch/wallpapers",
-         "categoria": "Dope",
+         "categoria": "Car",
          "resolucion": "1280 x 1920",
          "tamaño": "188 KB",
          "fecha": "09 jul. 2016"   
@@ -2467,7 +2540,7 @@
          "name": "Wall 41",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2041%20Preview.jpg",
          "website": "http://www.miui.ch/wallpapers",
-         "categoria": "Dope",
+         "categoria": "Fire",
          "resolucion": "1280 x 1920",
          "tamaño": "470 KB",
          "fecha": "09 jul. 2016"   
@@ -2479,7 +2552,7 @@
          "name": "Wall 40",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2040%20Preview.png",
          "website": "http://www.miui.ch/wallpapers",
-         "categoria": "Dope",
+         "categoria": "Mountain",
          "resolucion": "1000 x 1500",
          "tamaño": "1.51 MB",
          "fecha": "09 jul. 2016"   
@@ -2491,7 +2564,7 @@
          "name": "Wall 39",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2039%20Preview.jpg",
          "website": "https://plus.google.com/+AddictedAndroidPro",
-         "categoria": "Dope",
+         "categoria": "Animal",
          "resolucion": "1280 x 1920",
          "tamaño": "808 KB",
          "fecha": "09 jul. 2016"   
@@ -2503,7 +2576,7 @@
          "name": "Wall 38",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2038%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "Mountain",
          "resolucion": "1152 x 2048",
          "tamaño": "141 KB",
          "fecha": "07 jul. 2016"   
@@ -2515,7 +2588,7 @@
          "name": "Wall 37",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2037%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1152 x 2048",
          "tamaño": "244 KB",
          "fecha": "07 jul. 2016"   
@@ -2527,7 +2600,7 @@
          "name": "Wall 36",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2036%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1152 x 2048",
          "tamaño": "949 KB",
          "fecha": "07 jul. 2016"   
@@ -2539,7 +2612,7 @@
          "name": "Wall 35",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2035%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Car",
          "resolucion": "1000 x 1500",
          "tamaño": "719 KB",
          "fecha": "05 jul. 2016"   
@@ -2551,21 +2624,21 @@
          "name": "Wall 34",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2034%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Technology",
          "resolucion": "1000 x 1500",
          "tamaño": "599 KB",
          "fecha": "05 jul. 2016"   
       },
 
        {
-         "author": "Rutwik Patel",
+         "author": "Nick Nice",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2033.jpg",
          "name": "Wall 33",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2033%20Preview.jpg",
-         "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
-         "resolucion": "1000 x 1500",
-         "tamaño": "873 KB",
+         "website": "https://plus.google.com/u/0/100715060599105948000",
+         "categoria": "Plant",
+         "resolucion": "1280 x 1920",
+         "tamaño": "822 KB",
          "fecha": "05 jul. 2016"   
       },
 
@@ -2575,7 +2648,7 @@
          "name": "Wall 32",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2032%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "910 x 1365",
          "tamaño": "594 KB",
          "fecha": "05 jul. 2016"   
@@ -2587,7 +2660,7 @@
          "name": "Wall 31",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2031%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Road",
          "resolucion": "1280 x 1920",
          "tamaño": "733 KB",
          "fecha": "05 jul. 2016"   
@@ -2599,7 +2672,7 @@
          "name": "Wall 30",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2030%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Road",
          "resolucion": "1066 x 1600",
          "tamaño": "956 KB",
          "fecha": "05 jul. 2016"   
@@ -2611,7 +2684,7 @@
          "name": "Wall 29",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2029%20Preview.jpg",
          "website": "https://plus.google.com/u/0/+RutwikPatel246",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1000 x 1500",
          "tamaño": "585 KB",
          "fecha": "05 jul. 2016"   
@@ -2623,7 +2696,7 @@
          "name": "Wall 28",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2028%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1152 x 2048",
          "tamaño": "428 KB",
          "fecha": "03 jul. 2016"   
@@ -2635,7 +2708,7 @@
          "name": "Wall 27",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2027%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "Object",
          "resolucion": "1280 x 1920",
          "tamaño": "505 KB",
          "fecha": "03 jul. 2016"   
@@ -2647,7 +2720,7 @@
          "name": "Wall 26",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2026%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "Plant",
          "resolucion": "1152 x 2048",
          "tamaño": "502 KB",
          "fecha": "03 jul. 2016"   
@@ -2659,7 +2732,7 @@
          "name": "Wall 25",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2025%20Preview.jpg",
          "website": "https://plus.google.com/u/0/100715060599105948000",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1152 x 2048",
          "tamaño": "529 KB",
          "fecha": "03 jul. 2016"   
@@ -2671,7 +2744,7 @@
          "name": "Wall 24",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2024%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "1.81 MB",
          "fecha": "01 jul. 2016"   
@@ -2683,7 +2756,7 @@
          "name": "Wall 23",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2023%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "1.04 MB",
          "fecha": "01 jul. 2016"   
@@ -2695,7 +2768,7 @@
          "name": "Wall 22",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2022%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Road",
          "resolucion": "1280 x 1920",
          "tamaño": "1.31 MB",
          "fecha": "01 jul. 2016"   
@@ -2707,7 +2780,7 @@
          "name": "Wall 21",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2021%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1918",
          "tamaño": "1.64 MB",
          "fecha": "01 jul. 2016"   
@@ -2719,7 +2792,7 @@
          "name": "Wall 20",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2020%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "529 KB",
          "fecha": "01 jul. 2016"   
@@ -2731,7 +2804,7 @@
          "name": "Wall 19",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2019%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1000 x 1510",
          "tamaño": "1.47 MB",
          "fecha": "01 jul. 2016"   
@@ -2743,7 +2816,7 @@
          "name": "Wall 18",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2018%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Mountain",
          "resolucion": "1278 x 1920",
          "tamaño": "800 KB",
          "fecha": "01 jul. 2016"   
@@ -2755,7 +2828,7 @@
          "name": "Wall 17",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2017%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1080 x 1349",
          "tamaño": "235 KB",
          "fecha": "01 jul. 2016"   
@@ -2767,7 +2840,7 @@
          "name": "Wall 16",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2016%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "497 KB",
          "fecha": "01 jul. 2016"   
@@ -2779,7 +2852,7 @@
          "name": "Wall 15",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2015%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1280 x 1920",
          "tamaño": "878 KB",
          "fecha": "01 jul. 2016"   
@@ -2791,7 +2864,7 @@
          "name": "Wall 14",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2014%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "543 KB",
          "fecha": "01 jul. 2016"   
@@ -2803,7 +2876,7 @@
          "name": "Wall 13",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2013%20Preview.jpg",
          "website": "https://www.instagram.com/e.freyer_photo",
-         "categoria": "Girl",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
          "tamaño": "837 KB",
          "fecha": "01 jul. 2016"   
@@ -2815,33 +2888,33 @@
          "name": "Wall 12",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2012%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "850 KB",
          "fecha": "01 jul. 2016"   
       },
 
       {
-         "author": "Nico Ivarra",
+         "author": "Andrei Ianovskii",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2011.jpg",
          "name": "Wall 11",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2011%20Preview.jpg",
-         "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
-         "resolucion": "1272 x 1920",
-         "tamaño": "536 KB",
+         "website": "https://unsplash.com/@gn0me",
+         "categoria": "Animal",
+         "resolucion": "1280 x 1920",
+         "tamaño": "722 KB",
          "fecha": "01 jul. 2016"   
       },
 
        {
-         "author": "Nico Ivarra",
+         "author": "Mickey O'neil",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%2010.jpg",
          "name": "Wall 10",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%2010%20Preview.jpg",
-         "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "website": "https://unsplash.com/@mickeyoneil",
+         "categoria": "Nature",
          "resolucion": "1280 x 1920",
-         "tamaño": "1.06 MB",
+         "tamaño": "1.40 MB",
          "fecha": "01 jul. 2016"   
       },
 
@@ -2851,7 +2924,7 @@
          "name": "Wall 9",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%209%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1277 x 1920",
          "tamaño": "835 KB",
          "fecha": "01 jul. 2016"   
@@ -2863,7 +2936,7 @@
          "name": "Wall 8",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%208%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
          "tamaño": "607 KB",
          "fecha": "01 jul. 2016"   
@@ -2875,7 +2948,7 @@
          "name": "Wall 7",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%207%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1918",
          "tamaño": "1.67 MB",
          "fecha": "01 jul. 2016"   
@@ -2887,21 +2960,21 @@
          "name": "Wall 6",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%206%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1000 x 1500",
          "tamaño": "1.28 MB",
          "fecha": "01 jul. 2016"   
       },
 
       {
-         "author": "Nico Ivarra",
+         "author": "Wesley Nifong",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%205.jpg",
          "name": "Wall 5",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%205%20Preview.jpg",
-         "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
-         "resolucion": "899 x 1349",
-         "tamaño": "449 KB",
+         "website": "https://unsplash.com/@wdnifong",
+         "categoria": "Plant",
+         "resolucion": "1280 x 1920",
+         "tamaño": "278 KB",
          "fecha": "01 jul. 2016"   
       },
  
@@ -2911,7 +2984,7 @@
          "name": "Wall 4",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%204%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Forest",
          "resolucion": "1000 x 1510",
          "tamaño": "1.19 MB",
          "fecha": "01 jul. 2016"   
@@ -2923,7 +2996,7 @@
          "name": "Wall 3",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%203%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1152 x 2048",
          "tamaño": "330 KB",
          "fecha": "01 jul. 2016"   
@@ -2935,7 +3008,7 @@
          "name": "Wall 2",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%202%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Urban",
          "resolucion": "1280 x 1920",
          "tamaño": "862 KB",
          "fecha": "01 jul. 2016"   
@@ -2947,7 +3020,7 @@
          "name": "Wall 1",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%201%20Preview.jpg",
          "website": "https://plus.google.com/u/0/105213409512725554563",
-         "categoria": "Dope",
+         "categoria": "Road",
          "resolucion": "1080 x 1920",
          "tamaño": "703 KB",
          "fecha": "01 jul. 2016"   
