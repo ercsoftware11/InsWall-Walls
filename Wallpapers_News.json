@@ -1,6 +1,43 @@
 {
    "wallpapers": [ 
        
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20255.png",
+         "name": "Wall 255",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20255%20Preview.jpg",
+         "website": "",
+         "categoria": "Forest",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.48 MB",
+         "fecha": "10 sep. 2016"
+      }, 
+       
+       {
+         "author": "Michael Salisbury",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20254.jpg",
+         "name": "Wall 254",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20254%20Preview.jpg",
+         "website": "https://www.instagram.com/msalisbu",
+         "categoria": "Urban",
+         "resolucion": "1000 x 1500",
+         "tamaño": "927 KB",
+         "fecha": "10 sep. 2016"
+      },       
+      
+       {
+         "author": "Rodion Kutsaev",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20253.jpg",
+         "name": "Wall 253",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20253%20Preview.jpg",
+         "website": "https://unsplash.com/@frostroomhead",
+         "categoria": "Plant",
+         "resolucion": "1280 x 1920",
+         "tamaño": "348 KB",
+         "fecha": "10 sep. 2016"
+      }, 
+       
         {
          "author": "Sergio Arze",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20252.jpg",
