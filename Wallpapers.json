@@ -2,6 +2,27 @@
    "wallpapers": [
        
        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20255.png",
+         "name": "Wall 255",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20255%20Preview.jpg"
+      }, 
+       
+       {
+         "author": "Michael Salisbury",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20254.jpg",
+         "name": "Wall 254",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20254%20Preview.jpg"
+      },       
+      
+       {
+         "author": "Rodion Kutsaev",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20253.jpg",
+         "name": "Wall 253",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20253%20Preview.jpg"
+      }, 
+       
+       {
          "author": "Sergio Arze",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20252.jpg",
          "name": "Wall 252",
