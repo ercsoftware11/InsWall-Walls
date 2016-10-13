@@ -1,13 +1,11 @@
 {
    "wallpapers": [ 
-             
-       
 
        {
          "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Dota%208.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%209.png",
          "name": "Wall iOS 9",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%208%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%209%20Preview.jpg",
          "website": "",
          "categoria": "iOS 9",
          "resolucion": "2706 x 2706",
@@ -17,9 +15,9 @@
        
       {
          "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Dota%207.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Space.png",
          "name": "Space",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%207%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Space%20Preview.jpg",
          "website": "",
          "categoria": "iOS 8",
          "resolucion": "2524 x 2524",
@@ -29,9 +27,9 @@
       
        {
          "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Dota%206.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Clear.png",
          "name": "Clear",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%206%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Clear%20Preview.jpg",
          "website": "",
          "categoria": "iOS 8",
          "resolucion": "2560 x 2560",
@@ -41,9 +39,9 @@
       
        {
          "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Dota%205.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%207.png",
          "name": "Wall iOS 7",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%205%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%207%20Preview.jpg",
          "website": "",
          "categoria": "iOS 7",
          "resolucion": "744 x 1392",
@@ -53,9 +51,9 @@
        
       {
          "author": "Blackberry",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Dota%204.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pattern%20Teal.png",
          "name": "Pattern Teal",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%204%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Teal%20Preview.jpg",
          "website": "",
          "categoria": "BlackberryOS10",
          "resolucion": "1440 x 1440",
@@ -65,9 +63,9 @@
        
        {
          "author": "Blackberry",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Dota%203.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pattern%20Dark.png",
          "name": "Pattern Dark",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%203%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Dark%20Preview.jpg",
          "website": "",
          "categoria": "BlackberryOS10",
          "resolucion": "1440 x 1440",
@@ -77,9 +75,9 @@
        
       {
          "author": "Blackberry",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Dota%202.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pattern%20Blue.png",
          "name": "Pattern Blue",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%202%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Blue%20Preview.jpg",
          "website": "",
          "categoria": "BlackberryOS10",
          "resolucion": "1920 x 1920",
@@ -89,9 +87,9 @@
       
        {
          "author": "Blackberry",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Dota%201.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/BB%20Blue.png",
          "name": "BB Blue",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dota/Preview/Dota%201%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/BB%20Blue%20Preview.jpg",
          "website": "",
          "categoria": "BlackberryOS10",
          "resolucion": "1280 x 1280",
