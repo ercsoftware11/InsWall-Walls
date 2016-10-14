@@ -1,6 +1,5 @@
 {
    "wallpapers": [ 
-                 
        
        {
          "author": "Unknown",
@@ -12,7 +11,55 @@
          "resolucion": "1080 x 1920",
          "tamaño": "987 KB",
          "fecha": "13 oct. 2016"   
-       },       
+       },  
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Sunset.jpg",
+         "name": "Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Sunset%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1280 x 1920",
+         "tamaño": "376 KB",
+         "fecha": "13 oct. 2016"   
+       },
+      
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Im%20Earth.jpg",
+         "name": "Im Earth",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Im%20Earth%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "64.5 KB",
+         "fecha": "13 oct. 2016"   
+       },
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Disco%20Black.jpg",
+         "name": "Disco Black",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Disco%20Black%20%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "70.7 KB",
+         "fecha": "13 oct. 2016"   
+       },
+      
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Disco%20Purple.jpg",
+         "name": "Disco Purple",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Disco%20Purple%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "101 KB",
+         "fecha": "13 oct. 2016"   
+       },     
        
       {
          "author": "Unknown",
