@@ -13,17 +13,6 @@
          "tamaño": "748 KB",
          "fecha": "15 jul. 2016"   
       },    
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20329.jpg",
-         "name": "Wall 329",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20329%20Preview.jpg",
-         "website": "",
-         "categoria": "Car",
-         "resolucion": "1280 x 1920",
-         "tamaño": "910 KB",
-         "fecha": "27 sep. 2016"
-      },
        
        {
          "author": "Unknown",
@@ -59,19 +48,7 @@
          "resolucion": "1280 x 1920",
          "tamaño": "390 KB",
          "fecha": "05 ago. 2016" 
-      },  
-       
-         {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20302.jpg",
-         "name": "Wall 302",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20302%20Preview.jpg",
-         "website": "",
-         "categoria": "Car",
-         "resolucion": "1280 x 1920",
-         "tamaño": "273 KB",
-         "fecha": "18 sep. 2016"
-      },     
+      },      
        
         {
          "author": "Rutwik Patel",
@@ -83,7 +60,19 @@
          "resolucion": "1280 x 1920",
          "tamaño": "462 KB",
          "fecha": "23 jul. 2016" 
-      },        
+      }, 
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20302.jpg",
+         "name": "Wall 302",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20302%20Preview.jpg",
+         "website": "",
+         "categoria": "Car",
+         "resolucion": "1280 x 1920",
+         "tamaño": "273 KB",
+         "fecha": "18 sep. 2016"
+      }, 
        
        {
          "author": "Sheno C",
@@ -142,7 +131,19 @@
          "resolucion": "1280 x 1920",
          "tamaño": "648 KB",
          "fecha": "03 sep. 2016"
-      },        
+      },  
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20329.jpg",
+         "name": "Wall 329",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20329%20Preview.jpg",
+         "website": "",
+         "categoria": "Car",
+         "resolucion": "1280 x 1920",
+         "tamaño": "910 KB",
+         "fecha": "27 sep. 2016"
+      },
        
        {
          "author": "Daniel Bronshteyn",
