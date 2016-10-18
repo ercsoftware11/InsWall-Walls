@@ -1,5 +1,114 @@
 {
    "wallpapers": [ 
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2020.png",
+         "name": "Girl 20",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2020%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1080 x 1920",
+         "tamaño": "917 KB",
+         "fecha": "13 oct. 2016"   
+       },       
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2019.jpg",
+         "name": "Girl 19",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2019%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1080 x 1920",
+         "tamaño": "368 KB",
+         "fecha": "13 oct. 2016"   
+       },       
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2018.jpg",
+         "name": "Girl 18",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2018%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "771 x 1349",
+         "tamaño": "145 KB",
+         "fecha": "13 oct. 2016"   
+       },       
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2017.png",
+         "name": "Girl 17",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2017%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.16 MB",
+         "fecha": "13 oct. 2016"   
+       },
+      
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2016.png",
+         "name": "Girl 16",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2016%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.04 MB",
+         "fecha": "13 oct. 2016"   
+       },     
+     
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2015.jpg",
+         "name": "Girl 15",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2015%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1280 x 1920",
+         "tamaño": "347 KB",
+         "fecha": "13 oct. 2016"   
+       },       
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2014.jpg",
+         "name": "Girl 14",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2014%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1280 x 1920",
+         "tamaño": "520 KB",
+         "fecha": "13 oct. 2016"   
+       },       
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2013.jpg",
+         "name": "Girl 13",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2013%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1280 x 1920",
+         "tamaño": "360 KB",
+         "fecha": "13 oct. 2016"   
+       },       
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2012.jpg",
+         "name": "Girl 12",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2012%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1280 x 1920",
+         "tamaño": "1.19 MB",
+         "fecha": "13 oct. 2016"   
+       },
+       
          {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2011.jpg",
@@ -128,7 +237,7 @@
          "website": "",
          "categoria": "Girls",
          "resolucion": "1080 x 1920",
-         "tamaño": "872 KB",
+         "tamaño": "875 KB",
          "fecha": "13 oct. 2016"   
        }
     ]
