@@ -1,8 +1,32 @@
 {
    "wallpapers": [ 
        
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Galaxy.png",
+         "name": "Galaxy",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Galaxy%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "987 KB",
+         "fecha": "13 oct. 2016"   
+       }, 
        
-  {
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Astronaut.png",
+         "name": "Astronaut",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Astronaut%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "661 KB",
+         "fecha": "13 oct. 2016"   
+       },        
+       
+       
+       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Wolf.jpg",
          "name": "Wolf",
@@ -24,19 +48,7 @@
          "resolucion": "1080 x 1920",
          "tamaño": "602 KB",
          "fecha": "13 oct. 2016"   
-       } ,      
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Tattoo.jpg",
-         "name": "Tattoo",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Tattoo%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "969 KB",
-         "fecha": "13 oct. 2016"   
-       },    
+       } ,        
              
        
        {
@@ -135,54 +147,6 @@
          "fecha": "13 oct. 2016"   
        },      
        
-
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Galaxy.png",
-         "name": "Galaxy",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Galaxy%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "987 KB",
-         "fecha": "13 oct. 2016"   
-       }, 
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Astronaut.png",
-         "name": "Astronaut",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Astronaut%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "661 KB",
-         "fecha": "13 oct. 2016"   
-       },  
-       
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Sunset.jpg",
@@ -193,7 +157,19 @@
          "resolucion": "1280 x 1920",
          "tamaño": "376 KB",
          "fecha": "13 oct. 2016"   
-       },         
+       },   
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Tattoo.jpg",
+         "name": "Tattoo",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Tattoo%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "969 KB",
+         "fecha": "13 oct. 2016"   
+       },        
                   
        
        {
