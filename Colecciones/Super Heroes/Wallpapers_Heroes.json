@@ -145,20 +145,7 @@
          "resolucion": "1080 x 1920",
          "tamaño": "125 KB",
          "fecha": "13 oct. 2016"   
-       },     
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Super%20Heroes/Death%20Stroke.jpg",
-         "name": "Death Stroke",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Super%20Heroes/Preview/Death%20Stroke%20Preview.jpg",
-         "website": "",
-         "categoria": "Hero",
-         "resolucion": "1080 x 1920",
-         "tamaño": "118 KB",
-         "fecha": "13 oct. 2016"   
-       },    
-             
+       }, 
        
        {
          "author": "Unknown",
@@ -170,7 +157,19 @@
          "resolucion": "1080 x 1920",
          "tamaño": "131 KB",
          "fecha": "13 oct. 2016"   
-       } ,      
+       } ,         
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Super%20Heroes/Death%20Stroke.jpg",
+         "name": "Death Stroke",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Super%20Heroes/Preview/Death%20Stroke%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "118 KB",
+         "fecha": "13 oct. 2016"   
+       },        
        
        {
          "author": "Unknown",
