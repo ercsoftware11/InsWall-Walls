@@ -1,6 +1,19 @@
 {
    "wallpapers": [ 
        
+       
+         {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Gamer.jpg",
+         "name": "Gamer",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Gamer%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "434 KB",
+         "fecha": "13 oct. 2016"   
+       },  
+       
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Galaxy.png",
@@ -37,19 +50,7 @@
          "tamaño": "701 KB",
          "fecha": "13 oct. 2016"   
        } , 
-          
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Moon.jpg",
-         "name": "Moom",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Moon%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "466 KB",
-         "fecha": "13 oct. 2016"   
-       },    
+              
        
        {
          "author": "Unknown",
@@ -195,18 +196,7 @@
          "tamaño": "70.7 KB",
          "fecha": "13 oct. 2016"   
        },      
-      
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Disco%20Purple.jpg",
-         "name": "Disco Purple",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Disco%20Purple%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "101 KB",
-         "fecha": "13 oct. 2016"   
-       },    
+         
        
        {
          "author": "Unknown",
@@ -219,6 +209,18 @@
          "tamaño": "521 KB",
          "fecha": "13 oct. 2016"   
        },
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Music.png",
+         "name": "Music",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Music%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "467 KB",
+         "fecha": "13 oct. 2016"   
+       },  
        
         {
          "author": "Unknown",
@@ -291,7 +293,179 @@
          "resolucion": "1080 x 1920",
          "tamaño": "343 KB",
          "fecha": "13 oct. 2016"   
+       },  
+               
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%2010.png",
+         "name": "Lighting 10",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%2010%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "61 KB",
+         "fecha": "13 oct. 2016"   
+       },    
+             
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%209.png",
+         "name": "Lighting 9",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%209%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "60 KB",
+         "fecha": "13 oct. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%208.png",
+         "name": "Lighting 8",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%208%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "64 KB",
+         "fecha": "13 oct. 2016"   
+       },    
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%207.png",
+         "name": "Lighting 7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%207%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "88 KB",
+         "fecha": "13 oct. 2016"   
+       },       
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%206.png",
+         "name": "Lighting 6",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%206%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "59 KB",
+         "fecha": "13 oct. 2016"   
        },
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%205.png",
+         "name": "Lighting 5",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%205%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "54 KB",
+         "fecha": "13 oct. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%204.png",
+         "name": "Lighting 4",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%204%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "103 KB",
+         "fecha": "13 oct. 2016"   
+       },    
+             
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%203.png",
+         "name": "Lighting 3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%203%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "110 KB",
+         "fecha": "13 oct. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%202.png",
+         "name": "Lighting 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%202%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "93 KB",
+         "fecha": "13 oct. 2016"   
+       },    
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Lighting%201.png",
+         "name": "Lighting 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Lighting%201%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "750 x 1100",
+         "tamaño": "88 KB",
+         "fecha": "13 oct. 2016"   
+       },
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Emotion%204.png",
+         "name": "Emotion 4",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Emotion%204%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "40 KB",
+         "fecha": "13 oct. 2016"   
+       },    
+             
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Emotion%203.png",
+         "name": "Emotion 3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Emotion%203%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "32 KB",
+         "fecha": "13 oct. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Emotion%202.png",
+         "name": "Emotion 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Emotion%202%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "29 KB",
+         "fecha": "13 oct. 2016"   
+       },    
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Emotion%201.png",
+         "name": "Emotion 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Emotion%201%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "34 KB",
+         "fecha": "13 oct. 2016"   
+       },       
        
       {
          "author": "Unknown",
