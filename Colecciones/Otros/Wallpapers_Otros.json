@@ -1,7 +1,6 @@
 {
    "wallpapers": [ 
        
-       
          {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Gamer.jpg",
@@ -11,7 +10,7 @@
          "categoria": "Others",
          "resolucion": "1080 x 1920",
          "tamaño": "314 KB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },  
        
        {
@@ -23,7 +22,7 @@
          "categoria": "Others",
          "resolucion": "1080 x 1920",
          "tamaño": "987 KB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        }, 
        
        {
@@ -35,7 +34,7 @@
          "categoria": "Others",
          "resolucion": "1080 x 1920",
          "tamaño": "661 KB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },        
        
        
@@ -48,8 +47,83 @@
          "categoria": "Others",
          "resolucion": "1280 x 1920",
          "tamaño": "701 KB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        } , 
+        
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Marte%202.png",
+         "name": "Marte 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Marte%202%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "287 KB",
+         "fecha": "12 nov. 2016"   
+       }, 
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Marte%201.png",
+         "name": "Marte 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Marte%201%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "313 KB",
+         "fecha": "12 nov. 2016"   
+       },        
+       
+       
+         {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Slim.jpg",
+         "name": "Slim",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Slim%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.23 MB",
+         "fecha": "12 nov. 2016"   
+       } , 
+              
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Matdark.jpg",
+         "name": "Matdark",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Matdark%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "586 KB",
+         "fecha": "12 nov. 2016"   
+       },      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Fantastic%20Bridge.jpg",
+         "name": "Fantastic Bridge",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Fantastic%20Bridge%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "936 KB",
+         "fecha": "12 nov. 2016"   
+       },
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Sticker.jpg",
+         "name": "Sticker",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Sticker%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.15 MB",
+         "fecha": "12 nov. 2016"   
+       } ,           
               
        
        {
