@@ -2,7 +2,7 @@
    "wallpapers": [ 
 
        {
-         "author": "iOS 9",
+         "author": "iOS",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%209.png",
          "name": "Wall iOS 9",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%209%20Preview.jpg",
@@ -10,11 +10,11 @@
          "categoria": "iOS 9",
          "resolucion": "2706 x 2706",
          "tamaño": "2.49 MB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },       
        
       {
-         "author": "iOS 8",
+         "author": "iOS",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Space.png",
          "name": "Space",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Space%20Preview.jpg",
@@ -22,11 +22,11 @@
          "categoria": "iOS 8",
          "resolucion": "2524 x 2524",
          "tamaño": "3.08 MB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },
       
        {
-         "author": "iOS 8",
+         "author": "iOS",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Clear.png",
          "name": "Clear",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Clear%20Preview.jpg",
@@ -34,11 +34,11 @@
          "categoria": "iOS 8",
          "resolucion": "2560 x 2560",
          "tamaño": "3.83 MB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },   
       
        {
-         "author": "iOS 7",
+         "author": "iOS",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%207.png",
          "name": "Wall iOS 7",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%207%20Preview.jpg",
@@ -46,7 +46,7 @@
          "categoria": "iOS 7",
          "resolucion": "744 x 1392",
          "tamaño": "1.21 MB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        }, 
        
       {
@@ -58,7 +58,7 @@
          "categoria": "Blackberry",
          "resolucion": "1440 x 1440",
          "tamaño": "431 KB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },       
        
        {
@@ -70,7 +70,7 @@
          "categoria": "Blackberry",
          "resolucion": "1440 x 1440",
          "tamaño": "215 KB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },       
        
       {
@@ -82,7 +82,7 @@
          "categoria": "Blackberry",
          "resolucion": "1920 x 1920",
          "tamaño": "1.69 MB",
-         "fecha": "13 oct. 2016"   
+         "fecha": "12 nov. 2016"   
        },
       
        {
@@ -94,7 +94,7 @@
          "categoria": "Blackberry",
          "resolucion": "1280 x 1280",
          "tamaño": "365 KB",
-         "fecha": " oct. 2016"   
+         "fecha": "12 nov. 2016"   
        }
     ]
 }
