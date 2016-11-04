@@ -1,6 +1,30 @@
 {
    "wallpapers": [
        
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Games/Game%204.jpg",
+         "name": "Game 4",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Games/Preview/Game%204%20Preview.jpg",
+         "website": "",
+         "categoria": "Games",
+         "resolucion": "1080 x 1920",
+         "tamaño": "637 KB",
+         "fecha": "12 nov. 2016"   
+       },    
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Games/Game%203.jpg",
+         "name": "Game 3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Games/Preview/Game%203%20Preview.jpg",
+         "website": "",
+         "categoria": "Games",
+         "resolucion": "1080 x 1920",
+         "tamaño": "454 KB",
+         "fecha": "12 nov. 2016"   
+       },       
    
        {
          "author": "Unknown",
