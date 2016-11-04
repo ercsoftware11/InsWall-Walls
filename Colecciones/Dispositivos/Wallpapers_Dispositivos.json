@@ -69,7 +69,7 @@
          "website": "",
          "categoria": "Devices",
          "resolucion": "1440 x 1280",
-         "tamaño": " KB",
+         "tamaño": "681 KB",
          "fecha": "12 nov. 2016"   
        },       
        
@@ -81,7 +81,7 @@
          "website": "",
          "categoria": "Devices",
          "resolucion": "1440 x 1280",
-         "tamaño": " KB",
+         "tamaño": "501 KB",
          "fecha": "12 nov. 2016"   
        },
       
@@ -93,7 +93,7 @@
          "website": "",
          "categoria": "Devices",
          "resolucion": "1440 x 1280",
-         "tamaño": " KB",
+         "tamaño": "687 KB",
          "fecha": "12 nov. 2016"   
        },   
       
@@ -121,12 +121,6 @@
          "fecha": "12 nov. 2016"   
        },       
        
-       
-       
-       
-       
-       
-       
        {
          "author": "OnePlus",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%202.png",
@@ -153,9 +147,9 @@
 
        {
          "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%209.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Waves.png",
          "name": "Waves",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%209%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Waves%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
          "resolucion": "2706 x 2706",
@@ -189,9 +183,9 @@
       
        {
          "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%207.png",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Lighting.png",
          "name": "Lighting",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%207%20Preview.jpg",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Lighting%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
          "resolucion": "744 x 1392",
