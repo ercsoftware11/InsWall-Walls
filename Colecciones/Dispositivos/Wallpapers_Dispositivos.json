@@ -1,13 +1,163 @@
 {
    "wallpapers": [ 
+       
+    {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%2010.png",
+         "name": "Sony Xperia 10",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%2010%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "836 KB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+      {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%209.png",
+         "name": "Sony Xperia 9",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%209%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "810 KB",
+         "fecha": "12 nov. 2016"   
+       },
+      
+       {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%208.png",
+         "name": "Sony Xperia 8",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%208%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "798 KB",
+         "fecha": "12 nov. 2016"   
+       },   
+      
+       {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%207.png",
+         "name": "Sony Xperia 7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%207%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "798 KB",
+         "fecha": "12 nov. 2016"   
+       }, 
+       
+      {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%206.png",
+         "name": "Sony Xperia 6",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%206%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": "615 KB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+    {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%205.png",
+         "name": "Sony Xperia 5",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%205%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": " KB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+      {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%204.png",
+         "name": "Sony Xperia 4",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%204%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": " KB",
+         "fecha": "12 nov. 2016"   
+       },
+      
+       {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%203.png",
+         "name": "Sony Xperia 3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%203%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": " KB",
+         "fecha": "12 nov. 2016"   
+       },   
+      
+       {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%202.png",
+         "name": "Sony Xperia 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%202%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "690 KB",
+         "fecha": "12 nov. 2016"   
+       }, 
+       
+      {
+         "author": "Sony",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%201.png",
+         "name": "Sony Xperia 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%201%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "1.77 MB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+       
+       
+       
+       
+       
+       
+       {
+         "author": "OnePlus",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%202.png",
+         "name": "OnePlus 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%202%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1920",
+         "tamaño": "376 KB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+      {
+         "author": "OnePlus",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%201.jpg",
+         "name": "OnePlus 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%201%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1920",
+         "tamaño": "99 KB",
+         "fecha": "12 nov. 2016"   
+       },     
 
        {
          "author": "iOS",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%209.png",
-         "name": "Wall iOS 9",
+         "name": "Waves",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%209%20Preview.jpg",
          "website": "",
-         "categoria": "iOS 9",
+         "categoria": "Devices",
          "resolucion": "2706 x 2706",
          "tamaño": "2.49 MB",
          "fecha": "12 nov. 2016"   
@@ -19,7 +169,7 @@
          "name": "Space",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Space%20Preview.jpg",
          "website": "",
-         "categoria": "iOS 8",
+         "categoria": "Devices",
          "resolucion": "2524 x 2524",
          "tamaño": "3.08 MB",
          "fecha": "12 nov. 2016"   
@@ -31,7 +181,7 @@
          "name": "Clear",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Clear%20Preview.jpg",
          "website": "",
-         "categoria": "iOS 8",
+         "categoria": "Devices",
          "resolucion": "2560 x 2560",
          "tamaño": "3.83 MB",
          "fecha": "12 nov. 2016"   
@@ -40,10 +190,10 @@
        {
          "author": "iOS",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Wall%20iOS%207.png",
-         "name": "Wall iOS 7",
+         "name": "Lighting",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Wall%20iOS%207%20Preview.jpg",
          "website": "",
-         "categoria": "iOS 7",
+         "categoria": "Devices",
          "resolucion": "744 x 1392",
          "tamaño": "1.21 MB",
          "fecha": "12 nov. 2016"   
@@ -55,7 +205,7 @@
          "name": "Pattern Teal",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Teal%20Preview.jpg",
          "website": "",
-         "categoria": "Blackberry",
+         "categoria": "Devices",
          "resolucion": "1440 x 1440",
          "tamaño": "431 KB",
          "fecha": "12 nov. 2016"   
@@ -67,7 +217,7 @@
          "name": "Pattern Dark",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Dark%20Preview.jpg",
          "website": "",
-         "categoria": "Blackberry",
+         "categoria": "Devices",
          "resolucion": "1440 x 1440",
          "tamaño": "215 KB",
          "fecha": "12 nov. 2016"   
@@ -79,7 +229,7 @@
          "name": "Pattern Blue",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Blue%20Preview.jpg",
          "website": "",
-         "categoria": "Blackberry",
+         "categoria": "Devices",
          "resolucion": "1920 x 1920",
          "tamaño": "1.69 MB",
          "fecha": "12 nov. 2016"   
@@ -91,7 +241,7 @@
          "name": "BB Blue",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/BB%20Blue%20Preview.jpg",
          "website": "",
-         "categoria": "Blackberry",
+         "categoria": "Devices",
          "resolucion": "1280 x 1280",
          "tamaño": "365 KB",
          "fecha": "12 nov. 2016"   
