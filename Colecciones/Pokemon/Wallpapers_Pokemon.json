@@ -87,6 +87,19 @@
          "tamaño": "293 KB",
          "fecha": "12 nov. 2016"   
        }, 
+       
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Pikachu.png",
+         "name": "Pikachu",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Pikachu%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1000 x 1756",
+         "tamaño": "94 KB",
+         "fecha": "12 nov. 2016"   
+       }, 
       
        {
          "author": "Unknown",
@@ -100,19 +113,7 @@
          "fecha": "12 nov. 2016"   
        },   
       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Umbreon%20v1.jpg",
-         "name": "Umbreon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Umbreon%20v1%20Preview.jpg",
-         "website": "",
-         "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "152 KB",
-         "fecha": "12 nov. 2016"   
-       }, 
-              
-       {
+      {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Sylveon%20v1.jpg",
          "name": "Sylveon",
