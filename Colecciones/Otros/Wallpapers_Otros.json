@@ -85,7 +85,18 @@
          "tamaño": "701 KB",
          "fecha": "12 nov. 2016"   
        } , 
-        
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Midnight.jpg",
+         "name": "Midnight",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Midnight%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1280 x 1920",
+         "tamaño": "137 KB",
+         "fecha": "12 nov. 2016"   
+       },         
        
        {
          "author": "Unknown",
@@ -160,18 +171,6 @@
          "tamaño": "675 KB",
          "fecha": "12 nov. 2016"   
        },  
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Midnight.jpg",
-         "name": "Midnight",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Midnight%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1280 x 1920",
-         "tamaño": "137 KB",
-         "fecha": "12 nov. 2016"   
-       }, 
        
        {
          "author": "Unknown",
@@ -294,20 +293,7 @@
          "resolucion": "1080 x 1920",
          "tamaño": "277 KB",
          "fecha": "12 nov. 2016"   
-       },
-       
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Airplane.jpg",
-         "name": "Airplane",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Airplane%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "195 KB",
-         "fecha": "12 nov. 2016"   
-       },      
+       },     
        
        {
          "author": "Unknown",
@@ -319,22 +305,7 @@
          "resolucion": "1280 x 1920",
          "tamaño": "376 KB",
          "fecha": "12 nov. 2016"   
-       },   
-       
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Tattoo.jpg",
-         "name": "Tattoo",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Tattoo%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "969 KB",
-         "fecha": "12 nov. 2016"   
-       },        
-                  
-       
-
+       }, 
       
        {
          "author": "Unknown",
