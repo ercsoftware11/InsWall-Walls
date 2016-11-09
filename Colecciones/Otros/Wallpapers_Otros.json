@@ -72,7 +72,19 @@
          "resolucion": "1080 x 1920",
          "tamaño": "661 KB",
          "fecha": "12 nov. 2016"   
-       },        
+       }, 
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Sky%20Bicycle.jpg",
+         "name": "Sky Bicycle",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Sky%20Bicycle%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "293 KB",
+         "fecha": "12 nov. 2016"   
+       },
        
        
          {
@@ -324,17 +336,7 @@
        },        
                   
        
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Skate.jpg",
-         "name": "Skate",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Skate%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "640 KB",
-         "fecha": "12 nov. 2016"   
-       },
+
       
        {
          "author": "Unknown",
@@ -358,19 +360,21 @@
          "resolucion": "1080 x 1920",
          "tamaño": "70.7 KB",
          "fecha": "12 nov. 2016"   
-       },      
-         
-         {
+       }, 
+       
+        {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Sky%20Bicycle.jpg",
-         "name": "Sky Bicycle",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Sky%20Bicycle%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Skate.jpg",
+         "name": "Skate",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Skate%20Preview.jpg",
          "website": "",
          "categoria": "Others",
          "resolucion": "1080 x 1920",
-         "tamaño": "293 KB",
+         "tamaño": "640 KB",
          "fecha": "12 nov. 2016"   
        },
+         
+
                  
        {
          "author": "Unknown",
