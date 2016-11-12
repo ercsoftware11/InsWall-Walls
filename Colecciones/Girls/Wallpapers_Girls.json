@@ -1,7 +1,31 @@
 {
    "wallpapers": [ 
        
-           {
+            {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2056.jpg",
+         "name": "Girl 56",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2056%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.23 MB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2055.jpg",
+         "name": "Girl 55",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Preview/Girl%2055%20Preview.jpg",
+         "website": "",
+         "categoria": "Girls",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.30 MB",
+         "fecha": "12 nov. 2016"   
+       }, 
+       
+       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Girls/Girl%2054.jpg",
          "name": "Girl 54",
