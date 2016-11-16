@@ -1,6 +1,53 @@
 {
    "wallpapers": [ 
        
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20434.jpg",
+         "name": "Wall 434",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20434%20Preview.jpg",
+         "website": "",
+         "categoria": "Animal",
+         "resolucion": "1080 x 1920",
+         "tamaño": "816 KB",
+         "fecha": "16 nov. 2016"
+      },    
+       
+     {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20433.jpg",
+         "name": "Wall 433",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20433%20Preview.jpg",
+         "website": "",
+         "categoria": "Plant",
+         "resolucion": "1280 x 1920",
+         "tamaño": "1.71 MB",
+         "fecha": "16 nov. 2016"
+      },
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20432.jpg",
+         "name": "Wall 432",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20432%20Preview.jpg",
+         "website": "",
+         "categoria": "Urban",
+         "resolucion": "1080 x 1920",
+         "tamaño": "901 KB",
+         "fecha": "16 nov. 2016"
+      }, 
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20431.jpg",
+         "name": "Wall 431",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20431%20Preview.jpg",
+         "website": "",
+         "categoria": "Forest",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.30 MB",
+         "fecha": "16 nov. 2016"
+      },
        
        
      {
