@@ -1,7 +1,18 @@
 {
    "wallpapers": [
        
-       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Games/Game%205.jpg",
+         "name": "Game 5",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Games/Preview/Game%205%20Preview.jpg",
+         "website": "",
+         "categoria": "Games",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.18 MB",
+         "fecha": "12 nov. 2016"   
+       },    
+             
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Games/Game%204.jpg",
