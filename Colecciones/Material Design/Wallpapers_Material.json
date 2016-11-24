@@ -1,18 +1,7 @@
 {
-   "wallpapers": [     
+   "wallpapers": [    
        
-      {
-         "author": "Zan Cerne",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Weleno.png",
-         "name": "Weleno",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Weleno%20Preview.jpg",
-         "website": "https://zheanoblog.eu",
-         "categoria": "Material Design",
-         "resolucion": "3200 x 2560",
-         "tamaño": "336 KB",
-         "fecha": "12 nov. 2016"   
-       },       
-       
+
        {
          "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Wato%204.png",
@@ -183,12 +172,12 @@
        },       
        
       {
-         "author": "Material Design",
+         "author": "Zan Cerne",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Madex%202.png",
          "name": "Madex 2",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Madex%202%20Preview.jpg",
          "website": "https://zheanoblog.eu",
-         "categoria": "Zan Cerne",
+         "categoria": "Material Design",
          "resolucion": "3200 x 2560",
          "tamaño": "237 KB",
          "fecha": "12 nov. 2016"   
@@ -229,6 +218,78 @@
          "tamaño": "185 KB",
          "fecha": "12 nov. 2016"   
        },
+       
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Weleno.png",
+         "name": "Weleno",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Weleno%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "336 KB",
+         "fecha": "12 nov. 2016"   
+       },  
+       
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Spacelab.png",
+         "name": "Spacelab",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Spacelab%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "155 KB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Slik.png",
+         "name": "Slik",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Slik%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "106 KB",
+         "fecha": "12 nov. 2016"   
+       },
+      
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Plane.png",
+         "name": "Plane",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Plane%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "106 KB",
+         "fecha": "12 nov. 2016"   
+       },   
+      
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Ange%202.png",
+         "name": "Ange 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Ange%202%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "79 KB",
+         "fecha": "12 nov. 2016"   
+       },       
+       
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Ange%201.png",
+         "name": "Ange 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Ange%201%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "88 KB",
+         "fecha": "12 nov. 2016"   
+       },       
        
       {
          "author": "Material Design",
