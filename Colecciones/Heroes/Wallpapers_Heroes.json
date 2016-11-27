@@ -121,19 +121,7 @@
          "tamaño": "55 KB",
          "fecha": "12 nov. 2016"   
        } ,      
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Batman.jpg",
-         "name": "Batman",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Batman%20Preview.jpg",
-         "website": "",
-         "categoria": "Hero",
-         "resolucion": "1024 x 1820",
-         "tamaño": "93 KB",
-         "fecha": "12 nov. 2016"   
-       },    
-       
+
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroess/Avengers.jpg",
@@ -157,8 +145,20 @@
          "tamaño": "97 KB",
          "fecha": "12 nov. 2016"   
        },
-       
-        {
+              
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Batman.jpg",
+         "name": "Batman",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Batman%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1024 x 1820",
+         "tamaño": "93 KB",
+         "fecha": "12 nov. 2016"   
+       },    
+              
+       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Wolverine%202.jpg",
          "name": "Wolverine",
