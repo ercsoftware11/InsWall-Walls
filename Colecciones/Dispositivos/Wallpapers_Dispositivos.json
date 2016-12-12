@@ -1,78 +1,6 @@
 {
    "wallpapers": [ 
-       
-    {
-         "author": "Sony",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%2010.png",
-         "name": "Sony Xperia 10",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%2010%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "836 KB",
-         "fecha": "18 dic. 2016"   
-       },       
-       
-      {
-         "author": "Sony",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%209.png",
-         "name": "Sony Xperia 9",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%209%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "810 KB",
-         "fecha": "12 nov. 2016"   
-       },
-      
-       {
-         "author": "Sony",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%208.png",
-         "name": "Sony Xperia 8",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%208%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "798 KB",
-         "fecha": "12 nov. 2016"   
-       },   
-      
-       {
-         "author": "Sony",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%207.png",
-         "name": "Sony Xperia 7",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%207%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "798 KB",
-         "fecha": "12 nov. 2016"   
-       }, 
-       
-      {
-         "author": "Sony",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%206.png",
-         "name": "Sony Xperia 6",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%206%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1440 x 1280",
-         "tamaño": "615 KB",
-         "fecha": "12 nov. 2016"   
-       },       
-       
-    {
-         "author": "Sony",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%205.png",
-         "name": "Sony Xperia 5",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%205%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1440 x 1280",
-         "tamaño": "681 KB",
-         "fecha": "12 nov. 2016"   
-       },       
-       
+    
       {
          "author": "Sony",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%204.png",
@@ -80,8 +8,8 @@
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%204%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "1440 x 1280",
-         "tamaño": "501 KB",
+         "resolucion": "2160 x 1920",
+         "tamaño": "798 KB",
          "fecha": "12 nov. 2016"   
        },
       
@@ -92,8 +20,8 @@
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%203%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "1440 x 1280",
-         "tamaño": "687 KB",
+         "resolucion": "2160 x 1920",
+         "tamaño": "798 KB",
          "fecha": "12 nov. 2016"   
        },   
       
@@ -104,8 +32,8 @@
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%202%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "690 KB",
+         "resolucion": "1440 x 1280",
+         "tamaño": "615 KB",
          "fecha": "12 nov. 2016"   
        }, 
        
@@ -116,8 +44,8 @@
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%201%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "1.77 MB",
+         "resolucion": "1440 x 1280",
+         "tamaño": "681 KB",
          "fecha": "12 nov. 2016"   
        },       
        
@@ -155,31 +83,7 @@
          "resolucion": "2706 x 2706",
          "tamaño": "2.49 MB",
          "fecha": "12 nov. 2016"   
-       },       
-       
-      {
-         "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Space.png",
-         "name": "Space",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Space%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2524 x 2524",
-         "tamaño": "3.08 MB",
-         "fecha": "12 nov. 2016"   
-       },
-      
-       {
-         "author": "iOS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Clear.png",
-         "name": "Clear",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Clear%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2560 x 2560",
-         "tamaño": "3.83 MB",
-         "fecha": "12 nov. 2016"   
-       },   
+       },     
       
        {
          "author": "iOS",
