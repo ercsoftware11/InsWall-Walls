@@ -95,30 +95,7 @@
          "resolucion": "744 x 1392",
          "tamaño": "1.21 MB",
          "fecha": "18 dic. 2016"   
-       }, 
+       }
        
-      {
-         "author": "Blackberry",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pattern%20Teal.png",
-         "name": "Pattern Teal",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Teal%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1440 x 1440",
-         "tamaño": "431 KB",
-         "fecha": "18 dic. 2016"   
-       },       
-       
-       {
-         "author": "Blackberry",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pattern%20Dark.png",
-         "name": "Pattern Dark",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pattern%20Dark%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1440 x 1440",
-         "tamaño": "215 KB",
-         "fecha": "18 dic. 2016"   
-       } 
     ]
 }
