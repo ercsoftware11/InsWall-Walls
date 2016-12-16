@@ -1,29 +1,7 @@
 {
    "wallpapers": [  
        
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Hot%20Desert.jpg",
-         "name": "Hot Desert",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Hot%20Desert%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "314 KB",
-         "fecha": "18 dic. 2016"   
-       }, 
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Darkness.jpg",
-         "name": "Darkness",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Darkness%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "735 KB",
-         "fecha": "18 dic. 2016"   
-       },
+
        
       {
          "author": "Unknown",
@@ -73,30 +51,6 @@
          "fecha": "18 dic. 2016"   
        },  
        
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Blue%20Moon.jpg",
-         "name": "Blue Moon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Blue%20Moon%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "155 KB",
-         "fecha": "18 dic. 2016"   
-       },  
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Sunset%202.jpg",
-         "name": "Sunset",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Sunset%202%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "247 KB",
-         "fecha": "18 dic. 2016"   
-       }, 
-       
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Gamer.jpg",
@@ -118,18 +72,6 @@
          "categoria": "Others",
          "resolucion": "1080 x 1920",
          "tamaño": "987 KB",
-         "fecha": "18 dic. 2016"   
-       }, 
-       
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Untouchable.jpg",
-         "name": "Untouchable",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Untouchable%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "59 KB",
          "fecha": "18 dic. 2016"   
        },  
        
@@ -155,19 +97,7 @@
          "resolucion": "1280 x 1920",
          "tamaño": "701 KB",
          "fecha": "18 dic. 2016"   
-       } , 
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Midnight.jpg",
-         "name": "Midnight",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Midnight%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1280 x 1920",
-         "tamaño": "137 KB",
-         "fecha": "18 dic. 2016"   
-       },         
+       } ,         
        
        {
          "author": "Unknown",
@@ -363,31 +293,7 @@
          "resolucion": "1280 x 1920",
          "tamaño": "964 KB",
          "fecha": "18 dic. 2016"   
-       },     
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Sunset.jpg",
-         "name": "Sunset",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Sunset%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1280 x 1920",
-         "tamaño": "376 KB",
-         "fecha": "18 dic. 2016"   
-       }, 
-      
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Im%20Earth.jpg",
-         "name": "Im Earth",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Im%20Earth%20Preview.jpg",
-         "website": "",
-         "categoria": "Others",
-         "resolucion": "1080 x 1920",
-         "tamaño": "64.5 KB",
-         "fecha": "18 dic. 2016"   
-       },
+       },  
        
        {
          "author": "Unknown",
