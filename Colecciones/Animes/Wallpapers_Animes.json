@@ -1,7 +1,55 @@
 {
    "wallpapers": [
- 
-     {
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2020.jpg",
+         "name": "Anime 10",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2020%20Preview.jpg",
+         "website": "",
+         "categoria": "Animes",
+         "resolucion": "1242 x 2208",
+         "tamaño": "207 KB",
+         "fecha": "18 dic. 2016"   
+       },
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2019.jpg",
+         "name": "Anime 19",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2019%20Preview.jpg",
+         "website": "",
+         "categoria": "Animes",
+         "resolucion": "719 x 1280",
+         "tamaño": "1.03 MB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2018.jpg",
+         "name": "Anime 18",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%208%20Preview.jpg",
+         "website": "",
+         "categoria": "Animes",
+         "resolucion": "2160 x 1920",
+         "tamaño": "2.50 MB",
+         "fecha": "18 dic. 2016"   
+       },    
+                
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2017.jpg",
+         "name": "Anime 17",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2017%20Preview.jpg",
+         "website": "",
+         "categoria": "Animes",
+         "resolucion": "2160 x 1920",
+         "tamaño": "1.02 MB",
+         "fecha": "18 dic. 2016"   
+       } ,
+       
+      {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2016.jpg",
          "name": "Anime 16",
