@@ -1,7 +1,6 @@
 {
    "wallpapers": [ 
        
-       
       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2030.jpg",
@@ -9,11 +8,11 @@
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%2030%20Preview.jpg",
          "website": "",
          "categoria": "Minimal",
-         "resolucion": "1242 x 2208",
-         "tamaño": " KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "314 KB",
          "fecha": "18 dic. 2016"   
-       },       
-       
+       },
+      
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2029.jpg",
@@ -22,9 +21,9 @@
          "website": "",
          "categoria": "Minimal",
          "resolucion": "1080 x 1920",
-         "tamaño": " KB",
+         "tamaño": "735 KB",
          "fecha": "18 dic. 2016"   
-       },       
+       },          
        
       {
          "author": "Unknown",
@@ -34,7 +33,7 @@
          "website": "",
          "categoria": "Minimal",
          "resolucion": "1242 x 2208",
-         "tamaño": " KB",
+         "tamaño": "959 KB",
          "fecha": "18 dic. 2016"   
        },
       
@@ -46,7 +45,7 @@
          "website": "",
          "categoria": "Minimal",
          "resolucion": "1242 x 2208",
-         "tamaño": " KB",
+         "tamaño": "119 KB",
          "fecha": "18 dic. 2016"   
        },      
 
@@ -345,11 +344,11 @@
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%202%20Preview.jpg",
          "website": "",
          "categoria": "Minimal",
-         "resolucion": "1080 x 1920",
-         "tamaño": "314 KB",
+         "resolucion": "1242 x 2208",
+         "tamaño": "65 KB",
          "fecha": "18 dic. 2016"   
-       },
-      
+       },       
+       
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%201.jpg",
@@ -358,8 +357,8 @@
          "website": "",
          "categoria": "Minimal",
          "resolucion": "1080 x 1920",
-         "tamaño": "735 KB",
+         "tamaño": "36 KB",
          "fecha": "18 dic. 2016"   
-       }
+       }       
     ]
 }
