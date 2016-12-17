@@ -215,7 +215,31 @@
          "resolucion": "3200 x 2560",
          "tamaño": "88 KB",
          "fecha": "18 dic. 2016"   
+       }, 
+       
+      {
+         "author": "Material Design",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2012.jpg",
+         "name": "Material 12",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2012%20Preview.jpg",
+         "website": "",
+         "categoria": "Material Design",
+         "resolucion": "1440 x 2560",
+         "tamaño": "141 KB",
+         "fecha": "18 dic. 2016"   
        },       
+       
+      {
+         "author": "Material Design",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2011.jpg",
+         "name": "Material 11",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2011%20Preview.jpg",
+         "website": "",
+         "categoria": "Material Design",
+         "resolucion": "1440 x 2560",
+         "tamaño": "141 KB",
+         "fecha": "18 dic. 2016"   
+       },  
        
       {
          "author": "Material Design",
