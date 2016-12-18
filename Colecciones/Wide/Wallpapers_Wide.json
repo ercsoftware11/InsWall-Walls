@@ -135,6 +135,31 @@
          "fecha": "18 dic. 2016"   
        },
        
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Mountain.jpg",
+         "name": "Mountain",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Mountain%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "4811 x 2707",
+         "tamaño": "3.32 MB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Mountain%20Sunset.jpg",
+         "name": "Mountain Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Mountain%20Sunset%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2880 x 1800",
+         "tamaño": "3.63 MB",
+         "fecha": "18 dic. 2016"   
+       },        
+       
+       
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Warrior%20Girl.jpg",
@@ -230,6 +255,30 @@
          "tamaño": "1.12 MB",
          "fecha": "18 dic. 2016"   
        },
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Girl%202.jpg",
+         "name": "Girl 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Girl%202%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2000 x 1281",
+         "tamaño": "262 KB",
+         "fecha": "18 dic. 2016"   
+       },    
+             
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Girl%201.jpg",
+         "name": "Girl 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Girl%201%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1600",
+         "tamaño": "418 KB",
+         "fecha": "18 dic. 2016"   
+       },      
        
       {
          "author": "Unknown",
