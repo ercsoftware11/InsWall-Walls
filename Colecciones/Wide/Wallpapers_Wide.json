@@ -1,66 +1,259 @@
 {
    "wallpapers": [
        
-   
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%205.jpg",
-         "name": "Anime 5",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%205%20Preview.jpg",
-         "website": "",
-         "categoria": "Landscape",
-         "resolucion": "3840 x 2160",
-         "tamaño": "632 KB",
-         "fecha": "18 dic. 2016"   
-       } ,      
        
-       {
+    {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%204.jpg",
-         "name": "Anime 4",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%204%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Ghost.png",
+         "name": "Ghost",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Ghost%20Preview.jpg",
          "website": "",
          "categoria": "Landscape",
-         "resolucion": "3840 x 2160",
-         "tamaño": "611 KB",
+         "resolucion": "2560 x 1440",
+         "tamaño": "420 KB",
          "fecha": "18 dic. 2016"   
        },    
              
        {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%203.jpg",
-         "name": "Anime 3",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%203%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Lagoon.jpg",
+         "name": "Lagoon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Lagoon%20Preview.jpg",
          "website": "",
          "categoria": "Landscape",
-         "resolucion": "3840 x 2160",
-         "tamaño": "401 KB",
+         "resolucion": "2560 x 1440",
+         "tamaño": "583 KB",
          "fecha": "18 dic. 2016"   
        } ,      
        
        {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%202.jpg",
-         "name": "Anime 2",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%202%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Facet.jpg",
+         "name": "Facet",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Facet%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "613 KB",
+         "fecha": "18 dic. 2016"   
+       },         
+       
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Romantic%20Couple.jpg",
+         "name": "Romantic Couple",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Romantic%20Couple%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "340 KB",
+         "fecha": "18 dic. 2016"   
+       },    
+             
+       {
+         "author": "Aynoe",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Rek%20Sai.png",
+         "name": "Rek Sai",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Rek%20Sai%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "1.01 MB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Aynoe",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Sona%20Kinetic.png",
+         "name": "Sona Kinetic",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Sona%20Kinetic%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "2.41 MB",
+         "fecha": "18 dic. 2016"   
+       },    
+       
+        {
+         "author": "Aynoe",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Sona%20Ethereal.png",
+         "name": "Sona Ethereal",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Sona%20Ethereal%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "2.48 MB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Aynoe",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Magic.jpg",
+         "name": "Magic",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Magic%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "421 KB",
+         "fecha": "18 dic. 2016"   
+       },    
+             
+       {
+         "author": "Aynoe",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Galactic%20Azir.png",
+         "name": "Galactic Azir",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Galactic%20Azir%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "1.12 MB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Aynoe",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Sona%20Concussive.png",
+         "name": "Sona Concussive",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Sona%20Concussive%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "1.13 MB",
+         "fecha": "18 dic. 2016"   
+       },    
+       
+       {
+         "author": "Aynoe",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Annie.png",
+         "name": "Annie",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Annie%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "2560 x 1440",
+         "tamaño": "1.06 MB",
+         "fecha": "18 dic. 2016"   
+       },
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Warrior%20Girl.jpg",
+         "name": "Warrior Girl",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Warrior%20Girl%20Preview.jpg",
          "website": "",
          "categoria": "Landscape",
          "resolucion": "3840 x 2160",
-         "tamaño": "399 KB",
+         "tamaño": "290 KB",
+         "fecha": "18 dic. 2016"   
+       },    
+             
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Sunset.png",
+         "name": "Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Sunset%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "3840 x 2160",
+         "tamaño": "325 KB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Space.jpg",
+         "name": "Space",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Space%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "3840 x 2160",
+         "tamaño": "562 KB",
+         "fecha": "18 dic. 2016"   
+       },    
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Fantasy.jpg",
+         "name": "Fantasy",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Fantasy%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "3840 x 2160",
+         "tamaño": "543 KB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Cool%20Sunset.jpg",
+         "name": "Cool Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Cool%20Sunset%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "3840 x 2160",
+         "tamaño": "987 KB",
+         "fecha": "18 dic. 2016"   
+       },    
+             
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Warm%20Sunset.jpg",
+         "name": "Warm Sunset",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Warm%20Sunset%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "3840 x 2160",
+         "tamaño": "767 KB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Dark%20Sword.jpg",
+         "name": "Dark Sword",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Dark%20Sword%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "3840 x 2160",
+         "tamaño": "478 KB",
          "fecha": "18 dic. 2016"   
        },    
        
        {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%201.jpg",
-         "name": "Anime 1",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%201%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Bunny%20Girl.jpg",
+         "name": "Bunny Girl",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Bunny%20Girl%20Preview.jpg",
          "website": "",
          "categoria": "Landscape",
          "resolucion": "3840 x 2160",
-         "tamaño": "484 KB",
+         "tamaño": "1.12 MB",
          "fecha": "18 dic. 2016"   
-       }
+       },
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Ralph.jpg",
+         "name": "Ralph",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Ralph%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "3440 x 1440",
+         "tamaño": "1.48 MB",
+         "fecha": "18 dic. 2016"   
+       },    
+             
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Bridge.jpg",
+         "name": "Bridge",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Bridge%20Preview.jpg",
+         "website": "",
+         "categoria": "Landscape",
+         "resolucion": "11658 x 6112",
+         "tamaño": "2.79 MB",
+         "fecha": "18 dic. 2016"   
+       }       
 
     ]
 }
