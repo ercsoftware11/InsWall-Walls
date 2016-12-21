@@ -38,55 +38,7 @@
          "fecha": "18 dic. 2016"   
        }, 
             
-       
-       {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S7.png",
-         "name": "Samsung Galaxy S7",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S7%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1080 x 1920",
-         "tamaño": "1.32 MB",
-         "fecha": "18 dic. 2016"   
-       },
-      
-       {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S6.png",
-         "name": "Samsung Galaxy S6",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S6%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2240 x 2240",
-         "tamaño": "1.66 MB",
-         "fecha": "18 dic. 2016"   
-       },   
-      
-       {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S5.jpg",
-         "name": "Samsung Galaxy S5",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S5%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1920 x 1920",
-         "tamaño": "1.01 MB",
-         "fecha": "18 dic. 2016"   
-       }, 
-       
-      {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S4.png",
-         "name": "Samsung Galaxy S4",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S4%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1920 x 1920",
-         "tamaño": "3.47 MB",
-         "fecha": "18 dic. 2016"   
-       },   
-       
+
         {
          "author": "Huawei",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P9.jpg",
@@ -247,16 +199,53 @@
        },   
        
        {
-         "author": "LG",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/LG%20G2.jpg",
-         "name": "LG G2",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/LG%20G2%20Preview.jpg",
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S7.png",
+         "name": "Samsung Galaxy S7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S7%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "2048 x 1820",
-         "tamaño": "393 KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.32 MB",
          "fecha": "18 dic. 2016"   
-       },         
+       },
+      
+       {
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S6.png",
+         "name": "Samsung Galaxy S6",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S6%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2240 x 2240",
+         "tamaño": "1.66 MB",
+         "fecha": "18 dic. 2016"   
+       },   
+      
+       {
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S5.jpg",
+         "name": "Samsung Galaxy S5",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S5%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1920 x 1920",
+         "tamaño": "1.01 MB",
+         "fecha": "18 dic. 2016"   
+       }, 
+       
+       {
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S4.png",
+         "name": "Samsung Galaxy S4",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S4%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1920 x 1920",
+         "tamaño": "3.47 MB",
+         "fecha": "18 dic. 2016"   
+       },   
+       
        
            
       {
@@ -330,7 +319,6 @@
          "tamaño": "365 KB",
          "fecha": "18 dic. 2016"   
        },  
-    
 
        {
          "author": "Android N",
