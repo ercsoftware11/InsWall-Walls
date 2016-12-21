@@ -71,7 +71,19 @@
          "resolucion": "1080 x 1920",
          "tamaño": "109 KB",
          "fecha": "18 dic. 2016"   
-       } ,      
+       } ,  
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Batman.jpg",
+         "name": "Batman",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Batman%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1024 x 1820",
+         "tamaño": "93 KB",
+         "fecha": "18 dic. 2016"   
+       },         
   
        {
          "author": "Unknown",
@@ -84,18 +96,7 @@
          "tamaño": "178 KB",
          "fecha": "18 dic. 2016"   
         },
-       
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Punisher.png",
-         "name": "Punisher",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Punisher%20Preview.jpg",
-         "website": "",
-         "categoria": "Hero",
-         "resolucion": "1080 x 1920",
-         "tamaño": "395 KB",
-         "fecha": "18 dic. 2016"   
-       } ,      
+           
        
        {
          "author": "Unknown",
@@ -145,31 +146,7 @@
          "tamaño": "97 KB",
          "fecha": "18 dic. 2016"   
        },
-              
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Batman.jpg",
-         "name": "Batman",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Batman%20Preview.jpg",
-         "website": "",
-         "categoria": "Hero",
-         "resolucion": "1024 x 1820",
-         "tamaño": "93 KB",
-         "fecha": "18 dic. 2016"   
-       },    
-              
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Wolverine%202.jpg",
-         "name": "Wolverine",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Wolverine%202%20Preview.jpg",
-         "website": "",
-         "categoria": "Hero",
-         "resolucion": "1280 x 1920",
-         "tamaño": "385 KB",
-         "fecha": "18 dic. 2016"   
-       } ,
-       
+ 
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Superman.png",
