@@ -36,45 +36,7 @@
          "resolucion": "1080 x 1980",
          "tamaño": "164 KB",
          "fecha": "18 dic. 2016"   
-       }, 
-            
-
-        {
-         "author": "Huawei",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P9.jpg",
-         "name": "Huawei P9",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Huawei%20P9%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "329 KB",
-         "fecha": "18 dic. 2016"   
-       },        
-       
-       {
-         "author": "Huawei",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P8.jpg",
-         "name": "Huawei P8",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Huawei%20P8%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1080 x 1920",
-         "tamaño": "1.13 MB",
-         "fecha": "18 dic. 2016"   
-       },       
-    
-      {
-         "author": "Huawei",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20Ascend%20P7.jpg",
-         "name": "Huawei Ascend P7",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20Ascend%20P7%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2048 x 1820",
-         "tamaño": "125 KB",
-         "fecha": "18 dic. 2016"   
-       },
-       
+       },  
       
        {
          "author": "Sony",
@@ -111,7 +73,18 @@
          "tamaño": "146 KB",
          "fecha": "18 dic. 2016"   
        },   
-       
+         {
+         "author": "Nextbit",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Nextbit%20Robin.jpg",
+         "name": "Nextbit Robin",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Nextbit%20Robin%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1920",
+         "tamaño": "139 KB",
+         "fecha": "18 dic. 2016"   
+       },      
+             
         {
          "author": "OnePlus",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%203.png",
@@ -148,19 +121,6 @@
          "fecha": "18 dic. 2016"   
        }, 
        
-       
-        {
-         "author": "Nextbit",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Nextbit%20Robin.jpg",
-         "name": "Nextbit Robin",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Nextbit%20Robin%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1080 x 1920",
-         "tamaño": "139 KB",
-         "fecha": "18 dic. 2016"   
-       },      
-       
        {
          "author": "LG",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/LG%20G5.jpg",
@@ -196,8 +156,44 @@
          "resolucion": "2880 x 2560",
          "tamaño": "1.14 MB",
          "fecha": "18 dic. 2016"   
-       },   
+       }, 
        
+   
+        {
+         "author": "Huawei",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P9.jpg",
+         "name": "Huawei P9",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Huawei%20P9%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "329 KB",
+         "fecha": "18 dic. 2016"   
+       },        
+       
+       {
+         "author": "Huawei",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P8.jpg",
+         "name": "Huawei P8",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Huawei%20P8%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.13 MB",
+         "fecha": "18 dic. 2016"   
+       },       
+    
+      {
+         "author": "Huawei",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20Ascend%20P7.jpg",
+         "name": "Huawei Ascend P7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P7%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2048 x 1820",
+         "tamaño": "125 KB",
+         "fecha": "18 dic. 2016"   
+       },    
        {
          "author": "Samsung",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S7.png",
@@ -244,9 +240,7 @@
          "resolucion": "1920 x 1920",
          "tamaño": "3.47 MB",
          "fecha": "18 dic. 2016"   
-       },   
-       
-       
+       },          
            
       {
          "author": "iPhone",
