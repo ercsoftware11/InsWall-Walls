@@ -49,32 +49,7 @@
          "tamaño": "420 KB",
          "fecha": "18 dic. 2016"   
        },    
-             
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Lagoon.jpg",
-         "name": "Lagoon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Lagoon%20Preview.jpg",
-         "website": "",
-         "categoria": "Landscape",
-         "resolucion": "2560 x 1440",
-         "tamaño": "583 KB",
-         "fecha": "18 dic. 2016"   
-       } ,      
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Facet.jpg",
-         "name": "Facet",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Facet%20Preview.jpg",
-         "website": "",
-         "categoria": "Landscape",
-         "resolucion": "2560 x 1440",
-         "tamaño": "613 KB",
-         "fecha": "18 dic. 2016"   
-       },         
-       
-       
+
         {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Romantic%20Couple.jpg",
@@ -289,20 +264,21 @@
          "resolucion": "2560 x 1600",
          "tamaño": "418 KB",
          "fecha": "18 dic. 2016"   
-       },      
+       }, 
        
-      {
+       {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Ralph.jpg",
-         "name": "Ralph",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Ralph%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Facet.jpg",
+         "name": "Facet",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Facet%20Preview.jpg",
          "website": "",
          "categoria": "Landscape",
-         "resolucion": "3440 x 1440",
-         "tamaño": "1.48 MB",
+         "resolucion": "2560 x 1440",
+         "tamaño": "613 KB",
          "fecha": "18 dic. 2016"   
-       },    
-             
+       },        
+       
+   
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Bridge.jpg",
