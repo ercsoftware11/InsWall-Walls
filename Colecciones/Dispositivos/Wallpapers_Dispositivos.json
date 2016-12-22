@@ -1,6 +1,6 @@
 {
    "wallpapers": [ 
-       
+
        
          {
          "author": "Xiaomi",
@@ -120,6 +120,102 @@
          "tamaño": "99 KB",
          "fecha": "18 dic. 2016"   
        }, 
+       
+           
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pixel%20C.jpg",
+         "name": "Pixel C",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pixel%20C%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2154 x 2560",
+         "tamaño": "1.58 MB",
+         "fecha": "18 dic. 2016"   
+       },   
+      
+       {
+         "author": "Google",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pixel.jpg",
+         "name": "Pixel",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pixel%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2689 x 1800",
+         "tamaño": "1.71 MB",
+         "fecha": "18 dic. 2016"   
+       },  
+      
+       {
+         "author": "Motorola",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20Z.jpg",
+         "name": "Moto Z",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20Z%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2880 x 2560",
+         "tamaño": "1.63 MB",
+         "fecha": "18 dic. 2016"   
+       },   
+      
+       {
+         "author": "Motorola",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20X2.jpg",
+         "name": "Moto X2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20X2%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2048 x 1820",
+         "tamaño": "950 KB",
+         "fecha": "18 dic. 2016"   
+       }, 
+       
+      {
+         "author": "Motorola",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20X.jpg",
+         "name": "Moto X",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20X%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": "911 KB",
+         "fecha": "18 dic. 2016"   
+       },   
+         {
+         "author": "Motorola",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20G3.jpg",
+         "name": "Moto G3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20G3%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": "603 KB",
+         "fecha": "18 dic. 2016"   
+       },      
+             
+        {
+         "author": "Motorola",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20G2.jpg",
+         "name": "Moto G2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20G2%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": "1 MB",
+         "fecha": "18 dic. 2016"   
+       },        
+       
+       {
+         "author": "Motorola",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20G.jpg",
+         "name": "Moto G",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20G%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": "672 KB",
+         "fecha": "18 dic. 2016"   
+       },       
        
        {
          "author": "LG",
