@@ -1,5 +1,55 @@
 {
    "wallpapers": [ 
+    
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20468.jpg",
+         "name": "Wall 468",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20468%20Preview.jpg",
+         "website": "",
+         "categoria": "Technology",
+         "resolucion": "1280 x 1920",
+         "tamaño": "375 KB",
+         "fecha": "28 dic. 2016"
+      }, 
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20467.png",
+         "name": "Wall 467",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20467%20Preview.jpg",
+         "website": "",
+         "categoria": "Car",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.30 MB",
+         "fecha": "28 dic. 2016"
+      },
+       
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20466.jpg",
+         "name": "Wall 466",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20466%20Preview.jpg",
+         "website": "",
+         "categoria": "Animal",
+         "resolucion": "1280 x 2049",
+         "tamaño": "662 KB",
+         "fecha": "28 dic. 2016"
+      },    
+       
+     {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20465.png",
+         "name": "Wall 465",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20465%20Preview.jpg",
+         "website": "",
+         "categoria": "Urban",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.63 MB",
+         "fecha": "28 dic. 2016"
+      },
        
       {
          "author": "Unknown",
@@ -19,7 +69,7 @@
          "name": "Wall 463",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Preview/Wall%20463%20Preview.jpg",
          "website": "",
-         "categoria": "Mountain",
+         "categoria": "People",
          "resolucion": "1280 x 1920",
          "tamaño": "1.67 MB",
          "fecha": "23 dic. 2016"
@@ -72,14 +122,6 @@
          "tamaño": "326 KB",
          "fecha": "18 dic. 2016"
       },
-       
-       
-       
-       
-       
-       
-       
-       
       
        {
          "author": "Unknown",
@@ -104,7 +146,6 @@
          "tamaño": "863 KB",
          "fecha": "11 dic. 2016"
       },
-       
        
       {
          "author": "Unknown",
