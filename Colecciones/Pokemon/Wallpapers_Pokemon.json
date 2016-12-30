@@ -87,8 +87,7 @@
          "tamaño": "293 KB",
          "fecha": "18 dic. 2016"   
        }, 
-       
-       
+
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Pikachu.png",
@@ -100,100 +99,124 @@
          "tamaño": "94 KB",
          "fecha": "18 dic. 2016"   
        }, 
-      
+       
+        {
+         "author": "Weaponix",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mew%20v1.jpg",
+         "name": "Mew",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Mew%20v1%20Preview.jpg",
+         "website": "http://weaponix.deviantart.com",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "412 KB",
+         "fecha": "18 dic. 2016"   
+       },   
+  
        {
-         "author": "Unknown",
+         "author": "Weaponix",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Vaporeon%20v1.jpg",
          "name": "Vaporeon",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Vaporeon%20v1%20Preview.jpg",
-         "website": "",
+         "website": "http://weaponix.deviantart.com",
          "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "141 KB",
-         "fecha": "18 dic. 2016"   
-       },   
-      
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Sylveon%20v1.jpg",
-         "name": "Sylveon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Sylveon%20v1%20Preview.jpg",
-         "website": "",
-         "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "254 KB",
-         "fecha": "18 dic. 2016"   
-       },   
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Leafeon%20v1.jpg",
-         "name": "Leafeon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Leafeon%20v1%20Preview.jpg",
-         "website": "",
-         "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "239 KB",
-         "fecha": "18 dic. 2016"   
-       },
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Jolteon%20v1.jpg",
-         "name": "Jolteon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Jolteon%20v1%20Preview.jpg",
-         "website": "",
-         "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "151 KB",
-         "fecha": "18 dic. 2016"   
-       },  
-       
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Glaceon%20v1.jpg",
-         "name": "Glaceon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Glaceon%20v1%20Preview.jpg",
-         "website": "",
-         "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "220 KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "243 KB",
          "fecha": "18 dic. 2016"   
        }, 
        
       {
-         "author": "Unknown",
+         "author": "Weaponix",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Umbreon%20v1.jpg",
+         "name": "Umbreon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Umbreon%20v1%20Preview.jpg",
+         "website": "http://weaponix.deviantart.com",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "197 KB",
+         "fecha": "18 dic. 2016"   
+       },       
+      
+      {
+         "author": "Weaponix",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Sylveon%20v1.jpg",
+         "name": "Sylveon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Sylveon%20v1%20Preview.jpg",
+         "website": "http://weaponix.deviantart.com",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "259 KB",
+         "fecha": "18 dic. 2016"   
+       },   
+       
+       {
+         "author": "Weaponix",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Leafeon%20v1.jpg",
+         "name": "Leafeon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Leafeon%20v1%20Preview.jpg",
+         "website": "http://weaponix.deviantart.com",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "246 KB",
+         "fecha": "18 dic. 2016"   
+       },
+       
+       {
+         "author": "Weaponix",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Jolteon%20v1.jpg",
+         "name": "Jolteon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Jolteon%20v1%20Preview.jpg",
+         "website": "http://weaponix.deviantart.com",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "267 KB",
+         "fecha": "18 dic. 2016"   
+       },  
+       
+        {
+         "author": "Weaponix",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Glaceon%20v1.jpg",
+         "name": "Glaceon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Glaceon%20v1%20Preview.jpg",
+         "website": "http://weaponix.deviantart.com",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "221 KB",
+         "fecha": "18 dic. 2016"   
+       }, 
+       
+      {
+         "author": "Weaponix",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Flareon%20v1.jpg",
          "name": "Flareon",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Flareon%20v1%20Preview.jpg",
-         "website": "",
+         "website": "http://weaponix.deviantart.com",
          "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "131 KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "242 KB",
          "fecha": "18 dic. 2016"   
        },
        
         {
-         "author": "Unknown",
+         "author": "Weaponix",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Espeon%20v1.jpg",
          "name": "Espeon",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Espeon%20v1%20Preview.jpg",
-         "website": "",
+         "website": "http://weaponix.deviantart.com",
          "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "110 KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "197 KB",
          "fecha": "18 dic. 2016"   
        },
       
        {
-         "author": "Unknown",
+         "author": "Weaponix",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Eevee%20v1.jpg",
          "name": "Eevee",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Eevee%20v1%20Preview.jpg",
-         "website": "",
+         "website": "http://weaponix.deviantart.com",
          "categoria": "Pokémon",
-         "resolucion": "1280 x 1920",
-         "tamaño": "181 KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "196 KB",
          "fecha": "18 dic. 2016"   
        }, 
        
