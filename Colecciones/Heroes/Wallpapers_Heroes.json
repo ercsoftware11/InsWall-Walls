@@ -1,8 +1,178 @@
 {
    "wallpapers": [
-       
- {
+
+       {
          "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Captain%20America.jpg",
+         "name": "Captain America",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Captain%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "168 KB",
+         "fecha": "3 jan. 2017"   
+       },
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Iron%20Man.jpg",
+         "name": "Iron Man",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Iron%20Man%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "70 KB",
+         "fecha": "3 jan. 2017"   
+       },
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Spider%20Girl%20v2.jpg",
+         "name": "Spider Girl",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Spider%20Girl%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "573 KB",
+         "fecha": "3 jan. 2017"   
+       } ,      
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Spider%20Man%20v2.jpg",
+         "name": "Spider Man",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Spider%20Man%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "612 KB",
+         "fecha": "3 jan. 2017"   
+       },    
+            
+        {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Wolverine%20v2.jpg",
+         "name": "Wolverine",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Wolverine%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "650 KB",
+         "fecha": "3 jan. 2017"   
+       },    
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Deadpool%20v2.jpg",
+         "name": "Deadpool",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Deadpool%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "628 KB",
+         "fecha": "3 jan. 2017"   
+       },    
+             
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Captain%20America%20v2.jpg",
+         "name": "Captain America",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Captain%20America%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "701 KB",
+         "fecha": "3 jan. 2017"   
+       } ,      
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Batman%20v2.jpg",
+         "name": "Batman",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Batman%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "623 KB",
+         "fecha": "3 jan. 2017"   
+       },    
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Venom%20v2.jpg",
+         "name": "Venom",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Venom%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "650 KB",
+         "fecha": "3 jan. 2017"   
+       },    
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Panther%20v2.jpg",
+         "name": "Panther",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Panther%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "647 KB",
+         "fecha": "3 jan. 2017"   
+       } ,             
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Hellboy%20v2.jpg",
+         "name": "Hellboy",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Hellboy%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "671 KB",
+         "fecha": "3 jan. 2017"   
+       },    
+             
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Harley%20Quinn%20v2.jpg",
+         "name": "Harley Quinn",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Harley%20Quinn%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "714 KB",
+         "fecha": "3 jan. 2017"   
+       } ,      
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Yoda%20v2.jpg",
+         "name": "Yoda",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Yoda%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "579 KB",
+         "fecha": "3 jan. 2017"   
+       },  
+       
+       {
+         "author": "Derek Laufman",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Darth%20Vader%20v2.jpg",
+         "name": "Darth Vader",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Darth%20Vader%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "701 KB",
+         "fecha": "3 jan. 2017"   
+       }, 
+       
+     {
+         "author": "Sudipto Mondal",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Captain%20America%20V1.jpg",
          "name": "Captain America",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Captain%20America%20V1%20Preview.jpg",
@@ -14,7 +184,7 @@
        } ,      
        
        {
-         "author": "Unknown",
+         "author": "Sudipto Mondal",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Iron%20Man%20V1.jpg",
          "name": "Iron Man",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Iron%20Man%20V1%20Preview.jpg",
@@ -26,7 +196,7 @@
        },     
        
        {
-         "author": "Unknown",
+         "author": "Sudipto Mondal",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Spider%20Man%20V1.jpg",
          "name": "Spider Man",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Spider%20Man%20V1%20Preview.jpg",
@@ -38,7 +208,7 @@
        },   
        
         {
-         "author": "Unknown",
+         "author": "Sudipto Mondal",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Green%20Arrow%20V1.jpg",
          "name": "Green Arrow",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Green%20Arrow%20V1%20Preview.jpg",
@@ -50,7 +220,7 @@
        } , 
        
        {
-         "author": "Unknown",
+         "author": "Sudipto Mondal",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Flash%20V1.jpg",
          "name": "Flash",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Flash%20V1%20Preview.jpg",
@@ -62,7 +232,7 @@
        },       
        
        {
-         "author": "Unknown",
+         "author": "Sudipto Mondal",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Batman%20V1.jpg",
          "name": "Batman",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Batman%20V1%20Preview.jpg",
