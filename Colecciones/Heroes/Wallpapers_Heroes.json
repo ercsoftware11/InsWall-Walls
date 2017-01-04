@@ -628,6 +628,80 @@
          "resolucion": "1440 x 2560",
          "tamaño": "305 KB",
          "fecha": "18 dic. 2016"   
-       }
+       },
+       
+       {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Chibi%20Deadpool.jpg",
+         "name": "Chibi Deadpool",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Chibi%20Deadpool%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "379 KB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+       
+       {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Chibi%20Captain%20America.jpg",
+         "name": "Chibi Captain America",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Chibi%20Captain%20America%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "377 KB",
+         "fecha": "18 dic. 2016"   
+       },     
+       
+       {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Chibi%20Batman.jpg",
+         "name": "Chibi Batman",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Chibi%20Batman%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "346 KB",
+         "fecha": "18 dic. 2016"   
+       },   
+       
+        {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Chibi%20Wolverine.jpg",
+         "name": "Chibi Wolverine",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Chibi%20Wolverine%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "382 KB",
+         "fecha": "18 dic. 2016"   
+       } , 
+       
+
+       {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Chibi%20Arrow.jpg",
+         "name": "Chibi Arrow",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Chibi%20Arrow%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "366 KB",
+         "fecha": "18 dic. 2016"   
+       } ,
+       
+       {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Chibi%20Duende.jpg",
+         "name": "Chibi Duende",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Chibi%20Duende%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "342 KB",
+         "fecha": "18 dic. 2016"   
+       }       
+       
     ]
 }
