@@ -171,55 +171,7 @@
          "tamaño": "1.98 MB",
          "fecha": "5 jan. 2017"   
        }, 
-             
-       {
-         "author": "Romain Trystram",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Burj%20Al%20Arab.jpg",
-         "name": "Burj Al Arab",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Burj%20Al%20Arab%20Preview.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "1920 x 1080",
-         "tamaño": "368 KB",
-         "fecha": "5 jan. 2017"   
-       },  
-       
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Color%20Space.png",
-         "name": "Color Space",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Color%20Space%20Preview.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "1920 x 1080",
-         "tamaño": "677 KB",
-         "fecha": "5 jan. 2017"   
-       },    
-             
-       {
-         "author": "Kyle Gray",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Infinite%20Space.png",
-         "name": "Infinite Space",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Infinite%20Space%20Preview.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "1920 x 1080",
-         "tamaño": "1.29 MB",
-         "fecha": "5 jan. 2017"   
-       } ,
-       
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Sea.jpg",
-         "name": "Sea",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Sea%20Preview.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "1920 x 1080",
-         "tamaño": "2.17 MB",
-         "fecha": "5 jan. 2017"   
-       },           
-       
+            
        {
          "author": "Paulius",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Phasma.jpg",
@@ -244,7 +196,31 @@
          "fecha": "5 jan. 2017"   
        },  
        
+       {
+         "author": "Romain Trystram",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Burj%20Al%20Arab.jpg",
+         "name": "Burj Al Arab",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Burj%20Al%20Arab%20Preview.jpg",
+         "website": "",
+         "categoria": "Wide",
+         "resolucion": "1920 x 1080",
+         "tamaño": "368 KB",
+         "fecha": "5 jan. 2017"   
+       },  
+       
         {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Color%20Space.png",
+         "name": "Color Space",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Color%20Space%20Preview.jpg",
+         "website": "",
+         "categoria": "Wide",
+         "resolucion": "1920 x 1080",
+         "tamaño": "677 KB",
+         "fecha": "5 jan. 2017"   
+       },            
+       
+       {
          "author": "Sudipto Mondal",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Iron%20Man.png",
          "name": "Iron Man",
@@ -267,6 +243,30 @@
          "tamaño": "668 KB",
          "fecha": "5 jan. 2017"   
        } ,
+
+       {
+         "author": "Kyle Gray",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Infinite%20Space.png",
+         "name": "Infinite Space",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Infinite%20Space%20Preview.jpg",
+         "website": "",
+         "categoria": "Wide",
+         "resolucion": "1920 x 1080",
+         "tamaño": "1.29 MB",
+         "fecha": "5 jan. 2017"   
+       } ,
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Sea.jpg",
+         "name": "Sea",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Sea%20Preview.jpg",
+         "website": "",
+         "categoria": "Wide",
+         "resolucion": "1920 x 1080",
+         "tamaño": "2.17 MB",
+         "fecha": "5 jan. 2017"   
+       },   
        
       {
          "author": "Sudipto Mondal",
