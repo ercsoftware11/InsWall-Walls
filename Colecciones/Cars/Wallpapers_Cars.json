@@ -2,7 +2,56 @@
    "wallpapers": [
          
        
-        {
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Car%2032.jpg",
+         "name": "Car 32",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Preview/Car%2032%20Preview.jpg",
+         "website": "",
+         "categoria": "Cars",
+         "resolucion": "1280 x 1920",
+         "tamaño": "958 KB",
+         "fecha": "4 jan. 2017"
+      },   
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Car%2031.jpg",
+         "name": "Car 31",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Preview/Car%2031%20Preview.jpg",
+         "website": "",
+         "categoria": "Cars",
+         "resolucion": "1080 x 1920",
+         "tamaño": "344 KB",
+         "fecha": "4 jan. 2017"
+      }, 
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Car%2030.jpg",
+         "name": "Car 30",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Preview/Car%2030%20Preview.jpg",
+         "website": "",
+         "categoria": "Cars",
+         "resolucion": "1280 x 1920",
+         "tamaño": "992 KB",
+         "fecha": "4 jan. 2017"
+      },
+       
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Car%2029.png",
+         "name": "Car 29",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Preview/Car%2029%20Preview.jpg",
+         "website": "",
+         "categoria": "Cars",
+         "resolucion": "1080 x 1920",
+         "tamaño": "760 KB",
+         "fecha": "4 jan. 2017"
+      },
+       
+       
+       {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Cars/Car%2028.jpg",
          "name": "Car 28",
