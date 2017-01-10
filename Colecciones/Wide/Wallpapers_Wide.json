@@ -72,32 +72,8 @@
          "resolucion": "3840 x 2160",
          "tamaño": "1.86 MB",
          "fecha": "5 jan. 2017"   
-       } ,
-       
-      {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Spectacular%20Sunrise.jpg",
-         "name": "Spectacular Sunrise",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Spectacular%20Sunrise.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "3840 x 2160",
-         "tamaño": "9.13 KB",
-         "fecha": "5 jan. 2017"   
-       },           
-       
-       
-       {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Purple%20Big.jpg",
-         "name": "Purple Big",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Purple%20Big%20Preview.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "3840 x 2160",
-         "tamaño": "1.03 MB",
-         "fecha": "5 jan. 2017"   
-       },    
+       } ,         
+      
           
        {
          "author": "Unknown",
@@ -255,31 +231,6 @@
          "tamaño": "1.09 MB",
          "fecha": "5 jan. 2017"   
        },    
-             
-       {
-         "author": "Sudipto Mondal",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Captain%20America.jpg",
-         "name": "Captain America",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Captain%20America%20Preview.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "3000 x 1688",
-         "tamaño": "668 KB",
-         "fecha": "5 jan. 2017"   
-       } ,
-       
-      {
-         "author": "Sudipto Mondal",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Spider%20Man.png",
-         "name": "Spider Man",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Spider%20Man%20Preview.jpg",
-         "website": "",
-         "categoria": "Wide",
-         "resolucion": "3000 x 1688",
-         "tamaño": "419 KB",
-         "fecha": "5 jan. 2017"   
-       },           
-       
        
        {
          "author": "Sudipto Mondal",
@@ -462,18 +413,20 @@
          "fecha": "18 dic. 2016"   
        },        
        
+
        {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Earth.png",
-         "name": "Earth",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Earth%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Spectacular%20Sunrise.jpg",
+         "name": "Spectacular Sunrise",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Preview/Spectacular%20Sunrise.jpg",
          "website": "",
          "categoria": "Wide",
-         "resolucion": "5120 x 2880",
-         "tamaño": "290 KB",
-         "fecha": "18 dic. 2016"   
-       },    
-             
+         "resolucion": "3840 x 2160",
+         "tamaño": "9.13 KB",
+         "fecha": "5 jan. 2017"   
+       },        
+       
+       
        {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Sunset.png",
