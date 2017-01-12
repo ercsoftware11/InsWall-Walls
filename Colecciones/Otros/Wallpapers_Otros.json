@@ -1,7 +1,79 @@
 {
-   "wallpapers": [  
+   "wallpapers": [ 
        
- {
+     {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Hotline.jpg",
+         "name": "Hotline",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Hotline%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "671 KB",
+         "fecha": "12 jan. 2017"   
+       },  
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Loneliness.jpg",
+         "name": "Loneliness",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Loneliness%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "783 KB",
+         "fecha": "12 jan. 2017"   
+       },      
+
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Shooting%20Stars.png",
+         "name": "Shooting Stars",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Shooting%20Stars%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.12 MB",
+         "fecha": "12 jan. 2017"   
+       },  
+           
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Curves%20Purple.jpg",
+         "name": "Curves Purple",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Curves%20Purple%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "769 KB",
+         "fecha": "12 jan. 2017"   
+       },  
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Brillantina.png",
+         "name": "Brillantina",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Brillantina%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "843 KB",
+         "fecha": "12 jan. 2017"   
+       },      
+
+      {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Penguins.jpg",
+         "name": "Penguins",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Penguins%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "177 KB",
+         "fecha": "12 jan. 2017"   
+       },  
+       
+    {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Panda.png",
          "name": "Panda",
@@ -507,8 +579,56 @@
          "resolucion": "1080 x 1920",
          "tamaño": "458 KB",
          "fecha": "18 dic. 2016"   
+       },   
+  
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Dope%2018.png",
+         "name": "Dope 18",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Dope%2018%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "402 KB",
+         "fecha": "18 dic. 2016"   
+       },    
+       
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Dope%2017.png",
+         "name": "Dope 17",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Dope%2017%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "507 KB",
+         "fecha": "18 dic. 2016"   
        },      
        
+       {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Dope%2016.jpg",
+         "name": "Dope 16",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Dope%2016%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "645 KB",
+         "fecha": "18 dic. 2016"   
+       },
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Dope%2015.png",
+         "name": "Dope 15",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Preview/Dope%2015%20Preview.jpg",
+         "website": "",
+         "categoria": "Others",
+         "resolucion": "1080 x 1920",
+         "tamaño": "436 KB",
+         "fecha": "18 dic. 2016"   
+       } ,      
+  
         {
          "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Dope%2014.png",
