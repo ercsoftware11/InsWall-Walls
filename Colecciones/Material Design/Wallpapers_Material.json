@@ -1,5 +1,127 @@
 {
-   "wallpapers": [    
+   "wallpapers": [   
+       
+       
+       {
+         "author": "Maria Shanina",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Geometric%202.jpg",
+         "name": "Geometric 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Geometric%202%20Preview.jpg",
+         "website": "",
+         "categoria": "Material Design",
+         "resolucion": "1080 x 1920",
+         "tamaño": "675 KB",
+         "fecha": "12 jan. 2017"   
+       },   
+      
+       {
+         "author": "Maria Shanina",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Geometric%201.jpg",
+         "name": "Geometric 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Geometric%201%20Preview.jpg",
+         "website": "",
+         "categoria": "Material Design",
+         "resolucion": "1080 x 1920",
+         "tamaño": "763 KB",
+         "fecha": "12 jan. 2017"   
+       }, 
+       
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Clouds%202.png",
+         "name": "Clouds 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Clouds%202%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "82 KB",
+         "fecha": "12 jan. 2017"   
+       },       
+       
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Clouds%201.png",
+         "name": "Clouds 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Clouds%201%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "81 KB",
+         "fecha": "12 jan. 2017"   
+       },           
+       
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Earth.png",
+         "name": "Earth",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Earth%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "200 KB",
+         "fecha": "12 jan. 2017"   
+       },  
+              
+       
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Lace.png",
+         "name": "Lace",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Lace%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "115 KB",
+         "fecha": "12 jan. 2017"   
+       },   
+      
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Peak%202.png",
+         "name": "Peak 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Peak%202%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "284 KB",
+         "fecha": "12 jan. 2017"   
+       }, 
+       
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Peak%201.png",
+         "name": "Peak 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Peak%201%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "298 KB",
+         "fecha": "12 jan. 2017"   
+       },       
+       
+       {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Poly%202.png",
+         "name": "Poly 2",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Poly%202%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "48 KB",
+         "fecha": "12 jan. 2017"   
+       },           
+       
+      {
+         "author": "Zan Cerne",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Poly%201.png",
+         "name": "Poly 1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Poly%201%20Preview.jpg",
+         "website": "https://zheanoblog.eu",
+         "categoria": "Material Design",
+         "resolucion": "3200 x 2560",
+         "tamaño": "49 KB",
+         "fecha": "12 jan. 2017"   
+       },  
        
        {
          "author": "Zan Cerne",
