@@ -2,6 +2,30 @@
    "wallpapers": [ 
        
       {
+         "author": "Recuvan",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2064.png",
+         "name": "Minimal 64",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%2064%20Preview.jpg",
+         "website": "",
+         "categoria": "Minimal",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1 MB",
+         "fecha": "13 jan. 2017"   
+       },
+      
+       {
+         "author": "Sudipto Mondal",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2063.jpg",
+         "name": "Minimal 63",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%2063%20Preview.jpg",
+         "website": "",
+         "categoria": "Minimal",
+         "resolucion": "1080 x 1920",
+         "tamaño": "585 KB",
+         "fecha": "13 jan. 2017"   
+       },     
+ 
+      {
          "author": "Julien",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2062.jpg",
          "name": "Minimal 62",
