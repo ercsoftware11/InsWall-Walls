@@ -2,30 +2,7 @@
    "wallpapers": [
        
        
-        {
-         "author": "BossLogic",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Blox%20Flash.jpg",
-         "name": "Blox Flash",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Blox%20Flash%20Preview.jpg",
-         "website": "",
-         "categoria": "Hero",
-         "resolucion": "1080 x 1920",
-         "tamaño": "408 KB",
-         "fecha": "12 jan. 2017"   
-       },
-       
-       {
-         "author": "BossLogic",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Blox%20Neon.jpg",
-         "name": "Blox Neon",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Blox%20Neon%20Preview.jpg",
-         "website": "",
-         "categoria": "Hero",
-         "resolucion": "1080 x 1920",
-         "tamaño": "415 KB",
-         "fecha": "12 jan. 2017"   
-       },
-             
+
        
        {
          "author": "BossLogic",
@@ -51,6 +28,31 @@
          "tamaño": "370 KB",
          "fecha": "12 jan. 2017"   
        } , 
+       
+       {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Blox%20Neon.jpg",
+         "name": "Blox Neon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Blox%20Neon%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "415 KB",
+         "fecha": "12 jan. 2017"   
+       },
+       
+        {
+         "author": "BossLogic",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Blox%20Flash.jpg",
+         "name": "Blox Flash",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Preview/Blox%20Flash%20Preview.jpg",
+         "website": "",
+         "categoria": "Hero",
+         "resolucion": "1080 x 1920",
+         "tamaño": "408 KB",
+         "fecha": "12 jan. 2017"   
+       },        
+       
        
         {
          "author": "BossLogic",
