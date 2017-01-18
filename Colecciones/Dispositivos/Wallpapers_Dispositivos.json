@@ -1,5 +1,53 @@
 {
    "wallpapers": [ 
+       
+        {
+         "author": "Android N",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Android%20N.png",
+         "name": "Android N",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Android%20N%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2880 x 2560",
+         "tamaño": "1.58 MB",
+         "fecha": "18 dic. 2016"   
+       },
+       
+        {
+         "author": "Emotion UI",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Emotion%20UI.png",
+         "name": "Emotion UI",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Emotion%20UI%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "817 KB",
+         "fecha": "18 dic. 2016"   
+       },
+      
+       {
+         "author": "Oxygen OS",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Oxygen%20OS.png",
+         "name": "Oxygen OS",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Oxygen%20OS%20Preview.jpg",
+         "website": "",
+         "categoria": "ROM",
+         "resolucion": "1080 x 1920",
+         "tamaño": "619 KB",
+         "fecha": "18 dic. 2016"   
+       },       
+
+       {
+         "author": "Remix OS",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Remix%20OS.png",
+         "name": "Remix OS",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Remix%20OS%20Preview.jpg",
+         "website": "",
+         "categoria": "ROM",
+         "resolucion": "1920 x 1920",
+         "tamaño": "917 KB",
+         "fecha": "18 dic. 2016"   
+       } ,      
 
        
          {
@@ -384,55 +432,7 @@
          "resolucion": "744 x 1390",
          "tamaño": "365 KB",
          "fecha": "18 dic. 2016"   
-       },  
-
-       {
-         "author": "Android N",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Android%20N.png",
-         "name": "Android N",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Android%20N%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2880 x 2560",
-         "tamaño": "1.58 MB",
-         "fecha": "18 dic. 2016"   
-       },
-       
-        {
-         "author": "Emotion UI",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Emotion%20UI.png",
-         "name": "Emotion UI",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Emotion%20UI%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "817 KB",
-         "fecha": "18 dic. 2016"   
-       },
-      
-       {
-         "author": "Oxygen OS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Oxygen%20OS.png",
-         "name": "Oxygen OS",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Oxygen%20OS%20Preview.jpg",
-         "website": "",
-         "categoria": "ROM",
-         "resolucion": "1080 x 1920",
-         "tamaño": "619 KB",
-         "fecha": "18 dic. 2016"   
-       },       
-
-       {
-         "author": "Remix OS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Remix%20OS.png",
-         "name": "Remix OS",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Remix%20OS%20Preview.jpg",
-         "website": "",
-         "categoria": "ROM",
-         "resolucion": "1920 x 1920",
-         "tamaño": "917 KB",
-         "fecha": "18 dic. 2016"   
-       } 
+       }
  
     ]
 }
