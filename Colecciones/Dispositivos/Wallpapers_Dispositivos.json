@@ -1,55 +1,7 @@
 {
    "wallpapers": [ 
        
-        {
-         "author": "Android N",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Android%20N.png",
-         "name": "Android N",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Android%20N%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2880 x 2560",
-         "tamaño": "1.58 MB",
-         "fecha": "18 dic. 2016"   
-       },
-       
-        {
-         "author": "Emotion UI",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Emotion%20UI.png",
-         "name": "Emotion UI",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Emotion%20UI%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "817 KB",
-         "fecha": "18 dic. 2016"   
-       },
-      
-       {
-         "author": "Oxygen OS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Oxygen%20OS.png",
-         "name": "Oxygen OS",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Oxygen%20OS%20Preview.jpg",
-         "website": "",
-         "categoria": "ROM",
-         "resolucion": "1080 x 1920",
-         "tamaño": "619 KB",
-         "fecha": "18 dic. 2016"   
-       },       
-
-       {
-         "author": "Remix OS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Remix%20OS.png",
-         "name": "Remix OS",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Remix%20OS%20Preview.jpg",
-         "website": "",
-         "categoria": "ROM",
-         "resolucion": "1920 x 1920",
-         "tamaño": "917 KB",
-         "fecha": "18 dic. 2016"   
-       } ,      
-
-       
+  
          {
          "author": "Xiaomi",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Xiaomi%20Mi5.jpg",
@@ -169,31 +121,7 @@
          "fecha": "18 dic. 2016"   
        }, 
        
-           
-       {
-         "author": "Google",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pixel%20C.jpg",
-         "name": "Pixel C",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pixel%20C%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2154 x 2560",
-         "tamaño": "1.58 MB",
-         "fecha": "18 dic. 2016"   
-       },   
-      
-       {
-         "author": "Google",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Pixel.jpg",
-         "name": "Pixel",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Pixel%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2689 x 1800",
-         "tamaño": "1.71 MB",
-         "fecha": "18 dic. 2016"   
-       },  
-      
+
        {
          "author": "Motorola",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20Z.jpg",
@@ -289,20 +217,57 @@
          "tamaño": "2 MB",
          "fecha": "18 dic. 2016"   
        },
-      
+   
+    
        {
-         "author": "LG",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/LG%20G3.png",
-         "name": "LG G3",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/LG%20G3%20Preview.jpg",
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S7.png",
+         "name": "Samsung Galaxy S7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S7%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "2880 x 2560",
-         "tamaño": "1.14 MB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.32 MB",
          "fecha": "18 dic. 2016"   
-       }, 
+       },
+      
+       {
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S6.png",
+         "name": "Samsung Galaxy S6",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S6%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2240 x 2240",
+         "tamaño": "1.66 MB",
+         "fecha": "18 dic. 2016"   
+       },   
+               
+           
+      {
+         "author": "iPhone",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%207.png",
+         "name": "iPhone 7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%207%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "160 KB",
+         "fecha": "18 dic. 2016"   
+       },
        
-   
+      {
+         "author": "iPhone",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%206.png",
+         "name": "iPhone 6",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%206%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "744 x 1392",
+         "tamaño": "156 KB",
+         "fecha": "18 dic. 2016"   
+       },
+       
         {
          "author": "Huawei",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Huawei%20P9.jpg",
@@ -337,78 +302,66 @@
          "resolucion": "2048 x 1820",
          "tamaño": "125 KB",
          "fecha": "18 dic. 2016"   
-       },    
-       {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S7.png",
-         "name": "Samsung Galaxy S7",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S7%20Preview.jpg",
+       },  
+       
+      {
+         "author": "Lewa OS",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Lewa%20OS.jpg",
+         "name": "Lewa OS",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Lewa%20OS%20Preview.jpg",
+         "website": "",
+         "categoria": "ROM",
+         "resolucion": "1440 x 1280",
+         "tamaño": "216 KB",
+         "fecha": "18 dic. 2016"   
+       },        
+       
+        {
+         "author": "Android N",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Android%20N.png",
+         "name": "Android N",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Android%20N%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "1080 x 1920",
-         "tamaño": "1.32 MB",
+         "resolucion": "2880 x 2560",
+         "tamaño": "1.58 MB",
          "fecha": "18 dic. 2016"   
        },
-      
-       {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S6.png",
-         "name": "Samsung Galaxy S6",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S6%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2240 x 2240",
-         "tamaño": "1.66 MB",
-         "fecha": "18 dic. 2016"   
-       },   
-      
-       {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S5.jpg",
-         "name": "Samsung Galaxy S5",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S5%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1920 x 1920",
-         "tamaño": "1.01 MB",
-         "fecha": "18 dic. 2016"   
-       }, 
        
-       {
-         "author": "Samsung",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S4.png",
-         "name": "Samsung Galaxy S4",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S4%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1920 x 1920",
-         "tamaño": "1.08 MB",
-         "fecha": "18 dic. 2016"   
-       },          
-           
-      {
-         "author": "iPhone",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%207.png",
-         "name": "iPhone 7",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%207%20Preview.jpg",
+        {
+         "author": "Emotion UI",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Emotion%20UI.png",
+         "name": "Emotion UI",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Emotion%20UI%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
          "resolucion": "2160 x 1920",
-         "tamaño": "160 KB",
+         "tamaño": "817 KB",
          "fecha": "18 dic. 2016"   
        },
-       
-      {
-         "author": "iPhone",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%206.png",
-         "name": "iPhone 6",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%206%20Preview.jpg",
+      
+       {
+         "author": "Oxygen OS",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Oxygen%20OS.png",
+         "name": "Oxygen OS",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Oxygen%20OS%20Preview.jpg",
          "website": "",
-         "categoria": "Devices",
-         "resolucion": "744 x 1392",
-         "tamaño": "156 KB",
+         "categoria": "ROM",
+         "resolucion": "1080 x 1920",
+         "tamaño": "619 KB",
          "fecha": "18 dic. 2016"   
-       }      
-    
+       },       
+
+       {
+         "author": "Remix OS",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Remix%20OS.png",
+         "name": "Remix OS",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Remix%20OS%20Preview.jpg",
+         "website": "",
+         "categoria": "ROM",
+         "resolucion": "1920 x 1920",
+         "tamaño": "917 KB",
+         "fecha": "18 dic. 2016"   
+       } 
     ]
 }
