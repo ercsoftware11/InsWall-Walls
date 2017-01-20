@@ -1,6 +1,150 @@
 {
    "wallpapers": [ 
        
+        {
+         "author": "Iuni",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/IUNI%20i1.jpg",
+         "name": "Iuni i1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/IUNI%20i1%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "163 KB",
+         "fecha": "20 jan. 2017"   
+       },
+      
+       {
+         "author": "",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Idol%203.jpg",
+         "name": "Idol 3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Idol%203%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "683 KB",
+         "fecha": "20 jan. 2017"   
+       }, 
+
+        {
+         "author": "Elephone",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Elephone%20G7.jpg",
+         "name": "Elephone G7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Elephone%20G7%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 1280",
+         "tamaño": "1.30 MB",
+         "fecha": "20 jan. 2017"   
+       },
+      
+       {
+         "author": "InFocus",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/InFocus%20M812.jpg",
+         "name": "InFocus M812",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/InFocus%20M812%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "852 KB",
+         "fecha": "20 jan. 2017"   
+       }, 
+      
+       {
+         "author": "Zenfone",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Zenfone%206.png",
+         "name": "Zenfone 6",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Zenfone%206%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "678 KB",
+         "fecha": "20 jan. 2017"   
+       },
+      
+       {
+         "author": "Zenfone",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Zenfone%203.png",
+         "name": "Zenfone 3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Zenfone%203%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "358 KB",
+         "fecha": "20 jan. 2017"   
+       }, 
+
+       {
+         "author": "Meizu",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Meizu%20Pro%206.jpg",
+         "name": "Meizu Pro 6",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Meizu%20Pro%206%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "388 KB",
+         "fecha": "20 jan. 2017"   
+       },
+      
+       {
+         "author": "Meizu",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Meizu%20MX5.jpg",
+         "name": "Meizu MX5",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Meizu%20MX5%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "348 KB",
+         "fecha": "20 jan. 2017"   
+       }, 
+            
+       
+       {
+         "author": "HTC",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/One%20M10.jpg",
+         "name": "One M10",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/One%20M10%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1440 x 2560",
+         "tamaño": "83 KB",
+         "fecha": "20 jan. 2017"   
+       },
+      
+       {
+         "author": "HTC",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/One%20M9.jpg",
+         "name": "One M9",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/One%20M9%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "1.14 MB",
+         "fecha": "20 jan. 2017"   
+       }, 
+             
+        {
+         "author": "HTC",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/One%20M8.jpg",
+         "name": "One M8",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/One%20M8%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "1.80 MB",
+         "fecha": "20 jan. 2017"   
+       },
+      
+       {
+         "author": "HTC",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/One%20M7.jpg",
+         "name": "One M7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/One%20M7%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "816 KB",
+         "fecha": "20 jan. 2017"   
+       }, 
   
          {
          "author": "Xiaomi",
@@ -41,7 +185,7 @@
        {
          "author": "Sony",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%20Z5.png",
-         "name": "Sony Xperia Z5",
+         "name": "Xperia Z5",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%20Z5%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
@@ -53,7 +197,7 @@
        {
          "author": "Sony",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%20Z3.png",
-         "name": "Sony Xperia Z3",
+         "name": "Xperia Z3",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%20Z3%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
@@ -65,7 +209,7 @@
       {
          "author": "Sony",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Sony%20Xperia%20Z2.jpg",
-         "name": "Sony Xperia Z2",
+         "name": "Xperia Z2",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Sony%20Xperia%20Z2%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
@@ -83,7 +227,31 @@
          "resolucion": "1080 x 1920",
          "tamaño": "139 KB",
          "fecha": "18 dic. 2016"   
-       },      
+       }, 
+       
+        {
+         "author": "OnePlus",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%20X.jpg",
+         "name": "OnePlus X",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%20X%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1920",
+         "tamaño": "246 KB",
+         "fecha": "18 dic. 2016"   
+       },        
+       
+       {
+         "author": "OnePlus",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/OnePlus%203T.jpg",
+         "name": "OnePlus 3T",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/OnePlus%203T%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1920",
+         "tamaño": "1.79 MB",
+         "fecha": "18 dic. 2016"   
+       },       
              
         {
          "author": "OnePlus",
@@ -198,7 +366,7 @@
        {
          "author": "Samsung",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S7.png",
-         "name": "Samsung Galaxy S7",
+         "name": "Galaxy S7",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S7%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
@@ -210,7 +378,7 @@
        {
          "author": "Samsung",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Samsung%20Galaxy%20S6.png",
-         "name": "Samsung Galaxy S6",
+         "name": "Galaxy S6",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Samsung%20Galaxy%20S6%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
@@ -218,31 +386,54 @@
          "tamaño": "1.66 MB",
          "fecha": "18 dic. 2016"   
        },   
-               
-           
-      {
-         "author": "iPhone",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%207.png",
-         "name": "iPhone 7",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%207%20Preview.jpg",
+            
+       {
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Galaxy%20C9.png",
+         "name": "Galaxy C9",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Galaxy%20C9%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1920",
+         "tamaño": "552 KB",
+         "fecha": "18 dic. 2016"   
+       },
+      
+       {
+         "author": "Samsung",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Galaxy%20A5%202017.png",
+         "name": "Galaxy A5 2017",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Galaxy%20A5%202017%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1920 x 1920",
+         "tamaño": "545 KB",
+         "fecha": "18 dic. 2016"   
+       },   
+       
+        {
+         "author": "Huawei",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Honor%208.jpg",
+         "name": "Honor 8",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Honor%208%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
          "resolucion": "2160 x 1920",
-         "tamaño": "160 KB",
+         "tamaño": "45 KB",
          "fecha": "18 dic. 2016"   
-       },
+       },        
        
-      {
-         "author": "iPhone",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%206.png",
-         "name": "iPhone 6",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%206%20Preview.jpg",
+       {
+         "author": "Huawei",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Honor%207.jpg",
+         "name": "Honor 7",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Honor%207%20Preview.jpg",
          "website": "",
          "categoria": "Devices",
-         "resolucion": "744 x 1392",
-         "tamaño": "156 KB",
+         "resolucion": "1080 x 1920",
+         "tamaño": "436 KB",
          "fecha": "18 dic. 2016"   
-       },
+       },        
        
         {
          "author": "Huawei",
