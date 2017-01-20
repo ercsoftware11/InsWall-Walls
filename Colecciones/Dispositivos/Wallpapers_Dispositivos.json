@@ -1,29 +1,6 @@
 {
    "wallpapers": [ 
        
-        {
-         "author": "Iuni",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/IUNI%20i1.jpg",
-         "name": "Iuni i1",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/IUNI%20i1%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1080 x 1980",
-         "tamaño": "163 KB",
-         "fecha": "20 jan. 2017"   
-       },
-      
-       {
-         "author": "",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Idol%203.jpg",
-         "name": "Idol 3",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Idol%203%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "2160 x 1920",
-         "tamaño": "683 KB",
-         "fecha": "20 jan. 2017"   
-       }, 
 
         {
          "author": "Elephone",
@@ -96,6 +73,30 @@
          "tamaño": "348 KB",
          "fecha": "20 jan. 2017"   
        }, 
+       
+        {
+         "author": "Iuni",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/IUNI%20i1.jpg",
+         "name": "Iuni i1",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/IUNI%20i1%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "1080 x 1980",
+         "tamaño": "163 KB",
+         "fecha": "20 jan. 2017"   
+       },
+      
+       {
+         "author": "Alcatel",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Idol%203.jpg",
+         "name": "Idol 3",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Idol%203%20Preview.jpg",
+         "website": "",
+         "categoria": "Devices",
+         "resolucion": "2160 x 1920",
+         "tamaño": "683 KB",
+         "fecha": "20 jan. 2017"   
+       },        
             
        
        {
