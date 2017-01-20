@@ -167,31 +167,7 @@
          "resolucion": "1440 x 1280",
          "tamaño": "603 KB",
          "fecha": "18 dic. 2016"   
-       },      
-             
-        {
-         "author": "Motorola",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20G2.jpg",
-         "name": "Moto G2",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20G2%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1440 x 1280",
-         "tamaño": "1 MB",
-         "fecha": "18 dic. 2016"   
-       },        
-       
-       {
-         "author": "Motorola",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Moto%20G.jpg",
-         "name": "Moto G",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Moto%20G%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "1440 x 1280",
-         "tamaño": "672 KB",
-         "fecha": "18 dic. 2016"   
-       },       
+       },           
        
        {
          "author": "LG",
