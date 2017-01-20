@@ -408,31 +408,7 @@
          "resolucion": "744 x 1392",
          "tamaño": "156 KB",
          "fecha": "18 dic. 2016"   
-       },       
-       
-       {
-         "author": "iPhone",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%205S%20Wall2.png",
-         "name": "iPhone 5S",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%205S%20Wall2%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "744 x 1390",
-         "tamaño": "332 KB",
-         "fecha": "18 dic. 2016"   
-       },       
-       
-      {
-         "author": "iPhone",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/iPhone%205S%20Wall1.png",
-         "name": "iPhone 5S",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/iPhone%205S%20Wall1%20Preview.jpg",
-         "website": "",
-         "categoria": "Devices",
-         "resolucion": "744 x 1390",
-         "tamaño": "365 KB",
-         "fecha": "18 dic. 2016"   
-       }
- 
+       }      
+    
     ]
 }
