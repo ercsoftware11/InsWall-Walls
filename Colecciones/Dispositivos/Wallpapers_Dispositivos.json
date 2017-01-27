@@ -471,18 +471,7 @@
          "tamaño": "125 KB",
          "fecha": "18 dic. 2016"   
        },  
-       
-      {
-         "author": "Lewa OS",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Lewa%20OS.jpg",
-         "name": "Lewa OS",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Lewa%20OS%20Preview.jpg",
-         "website": "",
-         "categoria": "ROM",
-         "resolucion": "1440 x 1280",
-         "tamaño": "216 KB",
-         "fecha": "18 dic. 2016"   
-       },        
+            
        
         {
          "author": "Android N",
@@ -507,6 +496,18 @@
          "tamaño": "817 KB",
          "fecha": "18 dic. 2016"   
        },
+       
+       {
+         "author": "Lewa OS",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Lewa%20OS.jpg",
+         "name": "Lewa OS",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/Preview/Lewa%20OS%20Preview.jpg",
+         "website": "",
+         "categoria": "ROM",
+         "resolucion": "1440 x 1280",
+         "tamaño": "216 KB",
+         "fecha": "18 dic. 2016"   
+       },   
       
        {
          "author": "Oxygen OS",
