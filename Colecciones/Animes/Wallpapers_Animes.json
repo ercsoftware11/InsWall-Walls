@@ -1,11 +1,11 @@
 {
    "wallpapers": [
        
-            {
+      {
          "author": "Kuronick",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2050.jpg",
-         "name": "Anime 50",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2050%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2046.jpg",
+         "name": "Anime 46",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2046%20Preview.jpg",
          "website": "",
          "categoria": "Anime",
          "resolucion": "1080 x 1920",
@@ -15,40 +15,15 @@
        
         {
          "author": "DarkMaza",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2049.jpg",
-         "name": "Anime 49",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2049%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2045.jpg",
+         "name": "Anime 45",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2045%20Preview.jpg",
          "website": "",
          "categoria": "Anime",
          "resolucion": "1080 x 1920",
          "tamaño": "495 KB",
          "fecha": "25 jan. 2017"   
        } ,      
-       
-
-      {
-         "author": "Kuronick",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2032.png",
-         "name": "Anime 32",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2032%20Preview.jpg",
-         "website": "",
-         "categoria": "Anime",
-         "resolucion": "1800 x 1639",
-         "tamaño": "2.56 MB",
-         "fecha": "25 jan. 2017"   
-       },
-       
-        {
-         "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2031.png",
-         "name": "Anime 31",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2031%20Preview.jpg",
-         "website": "",
-         "categoria": "Anime",
-         "resolucion": "2260 x 1600",
-         "tamaño": "2.06 MB",
-         "fecha": "25 jan. 2017"   
-       } ,   
        
        {
          "author": "Kuronick",
@@ -119,7 +94,7 @@
          "categoria": "Anime",
          "resolucion": "1080 x 1920",
          "tamaño": "1.62 MB",
-         "fecha": "21 jan. 2017"   
+         "fecha": "25 jan. 2017"   
        },     
        
        {
@@ -192,7 +167,31 @@
          "resolucion": "1080 x 1920",
          "tamaño": "503 KB",
          "fecha": "25 jan. 2017"   
-       } ,    
+       } ,  
+       
+      {
+         "author": "Kuronick",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2032.png",
+         "name": "Anime 32",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2032%20Preview.jpg",
+         "website": "",
+         "categoria": "Anime",
+         "resolucion": "1800 x 1639",
+         "tamaño": "2.56 MB",
+         "fecha": "25 jan. 2017"   
+       },
+       
+        {
+         "author": "Unknown",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2031.png",
+         "name": "Anime 31",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2031%20Preview.jpg",
+         "website": "",
+         "categoria": "Anime",
+         "resolucion": "2260 x 1600",
+         "tamaño": "2.06 MB",
+         "fecha": "25 jan. 2017"   
+       } ,          
        
        {
          "author": "Deohvi",
