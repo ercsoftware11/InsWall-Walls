@@ -25,35 +25,12 @@
          "fecha": "25 jan. 2017"   
        } ,      
        
-       {
-         "author": "Deohvi",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2048.jpg",
-         "name": "Anime 48",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2048%20Preview.jpg",
-         "website": "",
-         "categoria": "Anime",
-         "resolucion": "2880 x 1800",
-         "tamaño": "1.20 MB",
-         "fecha": "25 jan. 2017"   
-       },    
-                
-       {
-         "author": "Deohvi",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2047.jpg",
-         "name": "Anime 47",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2047%20Preview.jpg",
-         "website": "",
-         "categoria": "Anime",
-         "resolucion": "2901 x 1392",
-         "tamaño": "986 KB",
-         "fecha": "25 jan. 2017"   
-       } ,    
-       
+
       {
          "author": "Kuronick",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2046.png",
-         "name": "Anime 46",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2046%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2032.png",
+         "name": "Anime 32",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2032%20Preview.jpg",
          "website": "",
          "categoria": "Anime",
          "resolucion": "1800 x 1639",
@@ -63,9 +40,9 @@
        
         {
          "author": "Unknown",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2045.png",
-         "name": "Anime 45",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2045%20Preview.jpg",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2031.png",
+         "name": "Anime 31",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2031%20Preview.jpg",
          "website": "",
          "categoria": "Anime",
          "resolucion": "2260 x 1600",
@@ -133,18 +110,17 @@
          "fecha": "25 jan. 2017"   
        },
        
-       
-        {
-         "author": "Strabixio",
+       {
+         "author": "Unknown",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2039.jpg",
          "name": "Anime 39",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2039%20Preview.jpg",
          "website": "",
          "categoria": "Anime",
          "resolucion": "1080 x 1920",
-         "tamaño": "228 KB",
-         "fecha": "25 jan. 2017"   
-       } ,      
+         "tamaño": "1.62 MB",
+         "fecha": "21 jan. 2017"   
+       },     
        
        {
          "author": "Jehuty",
@@ -265,18 +241,31 @@
          "tamaño": "284 KB",
          "fecha": "24 jan. 2017"   
        },
-
+       
        {
-         "author": "Unknown",
+         "author": "Deohvi",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2026.jpg",
          "name": "Anime 26",
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2026%20Preview.jpg",
          "website": "",
          "categoria": "Anime",
-         "resolucion": "1080 x 1920",
-         "tamaño": "1.62 MB",
+         "resolucion": "2880 x 1800",
+         "tamaño": "1.20 MB",
          "fecha": "21 jan. 2017"   
        },    
+                
+       {
+         "author": "Deohvi",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%2026.jpg",
+         "name": "Anime 25",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%2026%20Preview.jpg",
+         "website": "",
+         "categoria": "Anime",
+         "resolucion": "2901 x 1392",
+         "tamaño": "986 KB",
+         "fecha": "21 jan. 2017"   
+       } ,    
+       
                 
        {
          "author": "DarkMaza",
