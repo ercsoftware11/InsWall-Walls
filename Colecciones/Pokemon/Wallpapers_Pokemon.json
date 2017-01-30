@@ -1,8 +1,150 @@
 {
-   "wallpapers": [ 
+   "wallpapers": [  
        
+      {
+         "author": "Caitlin Jansma",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Growlithe%20v2.jpg",
+         "name": "Growlithe",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Growlithe%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "148 KB",
+         "fecha": "30 jan. 2017"   
+       },         
        
+       {
+         "author": "Caitlin Jansma",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Eevee%20v2.jpg",
+         "name": "Eevee",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Eevee%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "111 KB",
+         "fecha": "30 jan. 2017"   
+       },  
+       
+      {
+         "author": "Caitlin Jansma",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Pikachu%20v2.jpg",
+         "name": "Pikachu",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Pikachu%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "120 KB",
+         "fecha": "30 jan. 2017"   
+       }, 
+       
+      {
+         "author": "Caitlin Jansma",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Meowth%20v2.jpg",
+         "name": "Meowth",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Meowth%20v2%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "140 KB",
+         "fecha": "30 jan. 2017"   
+       },   
+       
+        {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Vaporeon%20v3.jpg",
+         "name": "",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Vaporeon%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "211 KB",
+         "fecha": "30 jan. 2017"   
+       },  
 
+      {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Sylveon%20v3.jpg",
+         "name": "Sylveon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Sylveon%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "262 KB",
+         "fecha": "30 jan. 2017"   
+       },  
+    
+       {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Leafeon%20v3.jpg",
+         "name": "Leafeon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Leafeon%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "245 KB",
+         "fecha": "30 jan. 2017"   
+       },
+        
+       {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Jolteon%20v3.jpg",
+         "name": "Jolteon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Jolteon%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "225 KB",
+         "fecha": "30 jan. 2017"   
+       },  
+       
+      {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Glaceon%20v3.jpg",
+         "name": "Glaceon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Glaceon%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "219 KB",
+         "fecha": "30 jan. 2017"   
+       },   
+       
+        {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Flareon%20v3.jpg",
+         "name": "Flareon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Flareon%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "229 KB",
+         "fecha": "30 jan. 2017"   
+       },  
+
+      {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Espeon%20v3.jpg",
+         "name": "Espeon",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Espeon%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "205 KB",
+         "fecha": "30 jan. 2017"   
+       },  
+    
+       {
+         "author": "Rocky Gonzales",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Eevee%20v3.jpg",
+         "name": "Eevee",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Eevee%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "157 KB",
+         "fecha": "30 jan. 2017"   
+       },
+       
        {
          "author": "Edzon DM",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mew%20Pro.jpg",
@@ -22,7 +164,7 @@
          "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Pikachu%20Pro%20Preview.jpg",
          "website": "",
          "categoria": "Pokémon",
-         "resolucion": "1080 x 19207",
+         "resolucion": "1080 x 1920",
          "tamaño": "407 KB",
          "fecha": "31 dic. 2016"   
        },   
@@ -55,8 +197,8 @@
          "author": "BossLogic",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Zapdos%20Epic.png",
          "name": "Zapdos Epic",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Zapdos%20Epic.png",
-         "website": "http://bosslogicinc.com",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Zapdos%20Epic%20Preview.jpg",
+         "website": "",
          "categoria": "Pokémon",
          "resolucion": "800 x 1257",
          "tamaño": "145 KB",
@@ -68,8 +210,8 @@
          "author": "BossLogic",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mewtwo%20Epic.png",
          "name": "Mewtwo Epic",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mewtwo%20Epic.png",
-         "website": "http://bosslogicinc.com",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Mewtwo%20Epic%20Preview.jpg",
+         "website": "",
          "categoria": "Pokémon",
          "resolucion": "800 x 1257",
          "tamaño": "233 KB",
@@ -80,8 +222,8 @@
          "author": "BossLogic",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Lugia%20Epic.png",
          "name": "Lugia Epic",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Lugia%20Epic.png",
-         "website": "http://bosslogicinc.com",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Lugia%20Epic%20Preview.jpg",
+         "website": "",
          "categoria": "Pokémon",
          "resolucion": "800 x 1257",
          "tamaño": "181 KB",
@@ -92,8 +234,8 @@
          "author": "BossLogic",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Articuno%20Epic.png",
          "name": "Articuno Epic",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Articuno%20Epic.png",
-         "website": "http://bosslogicinc.com",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Articuno%20Epic%20Preview.jpg",
+         "website": "",
          "categoria": "Pokémon",
          "resolucion": "800 x 1257",
          "tamaño": "188 KB",
