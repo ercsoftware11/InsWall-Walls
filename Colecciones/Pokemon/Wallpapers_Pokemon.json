@@ -967,18 +967,6 @@
          "tamaño": "65 KB",
          "fecha": "18 dic. 2016"   
        },   
-
-       {
-         "author": "Edzon DM",
-         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Golduck%20v3.jpg",
-         "name": "Golduck",
-         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Golduck%20v3%20Preview.jpg",
-         "website": "",
-         "categoria": "Pokémon",
-         "resolucion": "1080 x 1920",
-         "tamaño": "378 KB",
-         "fecha": "18 dic. 2016"   
-       }, 
        
           {
          "author": "Edzon DM",
@@ -992,8 +980,6 @@
          "fecha": "18 dic. 2016"   
        },  
        
-
-       
        {
          "author": "Edzon DM",
          "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Charmander%20Line.jpg",
@@ -1005,6 +991,18 @@
          "tamaño": "170 KB",
          "fecha": "18 dic. 2016"   
        },  
+       
+        {
+         "author": "Edzon DM",
+         "url": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Golduck%20v3.jpg",
+         "name": "Golduck",
+         "thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Golduck%20v3%20Preview.jpg",
+         "website": "",
+         "categoria": "Pokémon",
+         "resolucion": "1080 x 1920",
+         "tamaño": "378 KB",
+         "fecha": "18 dic. 2016"   
+       },       
             
        
         {
