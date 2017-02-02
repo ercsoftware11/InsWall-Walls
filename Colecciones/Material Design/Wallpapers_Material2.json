@@ -1,11 +1,170 @@
 {
    "wallpapers": [ 
        
+       {
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Material 36",
+      "wallpaper_id": "inswall-mat-00036",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2036.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2036%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "80 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },  
+       
+      {
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Material 35",
+      "wallpaper_id": "inswall-mat-00035",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2035.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2035%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "126 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },  
+       
+     {
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Material 34",
+      "wallpaper_id": "inswall-mat-00034",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2034.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2034%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "136 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },         
+       
+     {
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Material 33",
+      "wallpaper_id": "inswall-mat-00033",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2033.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2033%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "146 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },    
+       
+    {
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Material 32",
+      "wallpaper_id": "inswall-mat-00032",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2032.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2032%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "86 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },        
+       
+    {
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Material 31",
+      "wallpaper_id": "inswall-mat-00031",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2031.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2031%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "91 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
  
     {
-      "author_name": "Maria Shanina",
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Material 30",
+      "wallpaper_id": "inswall-mat-00030",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2030.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2030%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "113 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+    {
+      "author_name": "Edzon DM",
       "wallpaper_name": "Material 29",
       "wallpaper_id": "inswall-mat-00029",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Material%2029.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Material%2029%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "165 KB",
+      "upload_date": "20 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+    {
+      "author_name": "Maria Shanina",
+      "wallpaper_name": "Material 28",
+      "wallpaper_id": "inswall-mat-00028",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Geometric%202.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Geometric%202%20Preview.jpg",
       "wallpaper_resolution": "3200 x 2560",
@@ -17,15 +176,15 @@
       "wallpaper_category": "Material Design",
       "wallpaper_payment_type": "free",
       "wallpaper_is_active": "true",
-      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
-      "author_url_website": "https://zheanoblog.eu",
-      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
     }, 
        
     {
       "author_name": "Maria Shanina",
-      "wallpaper_name": "Material 29",
-      "wallpaper_id": "inswall-mat-00029",
+      "wallpaper_name": "Material 27",
+      "wallpaper_id": "inswall-mat-00027",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Geometric%201.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Geometric%201%20Preview.jpg",
       "wallpaper_resolution": "3200 x 2560",
@@ -37,31 +196,10 @@
       "wallpaper_category": "Material Design",
       "wallpaper_payment_type": "free",
       "wallpaper_is_active": "true",
-      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
-      "author_url_website": "https://zheanoblog.eu",
-      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
-    },   
-      
-      
-    {
-      "author_name": "Zan Cerne",
-      "wallpaper_name": "Material 27",
-      "wallpaper_id": "inswall-mat-00027",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Lace.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Lace%20Preview.jpg",
-      "wallpaper_resolution": "3200 x 2560",
-      "wallpaper_size": "115 KB",
-      "upload_date": "18 dic. 2016",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Material Design",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
-      "author_url_website": "https://zheanoblog.eu",
-      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
-    },   
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },    
       
     {
       "author_name": "Zan Cerne",
@@ -82,8 +220,7 @@
       "author_url_website": "https://zheanoblog.eu",
       "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
     },   
-             
-       
+ 
     {
       "author_name": "Zan Cerne",
       "wallpaper_name": "Material 25",
@@ -289,10 +426,10 @@
       "author_name": "Zan Cerne",
       "wallpaper_name": "Material 15",
       "wallpaper_id": "inswall-mat-00015",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Ange%202.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Ange%202%20Preview.jpg",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Lace.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Lace%20Preview.jpg",
       "wallpaper_resolution": "3200 x 2560",
-      "wallpaper_size": "79 KB",
+      "wallpaper_size": "115 KB",
       "upload_date": "18 dic. 2016",
       "wallpaper_is_recent": "false",
 
