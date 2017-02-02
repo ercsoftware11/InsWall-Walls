@@ -1,12 +1,153 @@
 {
    "wallpapers": [ 
        
-   
+ 
+    {
+      "author_name": "Maria Shanina",
+      "wallpaper_name": "Material 29",
+      "wallpaper_id": "inswall-mat-00029",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Geometric%202.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Geometric%202%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "675 KB",
+      "upload_date": "12 jan. 2017",
+      "wallpaper_is_recent": "false",
 
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
+      "author_url_website": "https://zheanoblog.eu",
+      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+    }, 
+       
+    {
+      "author_name": "Maria Shanina",
+      "wallpaper_name": "Material 29",
+      "wallpaper_id": "inswall-mat-00029",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Geometric%201.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Geometric%201%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "763 KB",
+      "upload_date": "12 jan. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
+      "author_url_website": "https://zheanoblog.eu",
+      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+    },   
+      
+      
+    {
+      "author_name": "Zan Cerne",
+      "wallpaper_name": "Material 27",
+      "wallpaper_id": "inswall-mat-00027",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Lace.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Lace%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "115 KB",
+      "upload_date": "18 dic. 2016",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
+      "author_url_website": "https://zheanoblog.eu",
+      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+    },   
+      
+    {
+      "author_name": "Zan Cerne",
+      "wallpaper_name": "Material 26",
+      "wallpaper_id": "inswall-mat-00026",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Peak%202.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Peak%202%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "284 KB",
+      "upload_date": "18 dic. 2016",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
+      "author_url_website": "https://zheanoblog.eu",
+      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+    },   
+             
+       
+    {
+      "author_name": "Zan Cerne",
+      "wallpaper_name": "Material 25",
+      "wallpaper_id": "inswall-mat-00025",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Peak%201.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Peak%201%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "298 KB",
+      "upload_date": "18 dic. 2016",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
+      "author_url_website": "https://zheanoblog.eu",
+      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+    },   
+      
+    {
+      "author_name": "Zan Cerne",
+      "wallpaper_name": "Material 24",
+      "wallpaper_id": "inswall-mat-00024",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Wato%202.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Wato%202%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "199 KB",
+      "upload_date": "18 dic. 2016",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
+      "author_url_website": "https://zheanoblog.eu",
+      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+    }, 
+       
     {
       "author_name": "Zan Cerne",
       "wallpaper_name": "Material 23",
       "wallpaper_id": "inswall-mat-00023",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Wato%201.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Wato%201%20Preview.jpg",
+      "wallpaper_resolution": "3200 x 2560",
+      "wallpaper_size": "213 KB",
+      "upload_date": "18 dic. 2016",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Material Design",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
+      "author_url_website": "https://zheanoblog.eu",
+      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
+    }, 
+
+    {
+      "author_name": "Zan Cerne",
+      "wallpaper_name": "Material 22",
+      "wallpaper_id": "inswall-mat-00022",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Ota%202.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Ota%202%20Preview.jpg",
       "wallpaper_resolution": "3200 x 2560",
@@ -25,8 +166,8 @@
        
     {
       "author_name": "Zan Cerne",
-      "wallpaper_name": "Material 22",
-      "wallpaper_id": "inswall-mat-00022",
+      "wallpaper_name": "Material 21",
+      "wallpaper_id": "inswall-mat-00021",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Ota%201.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Ota%201%20Preview.jpg",
       "wallpaper_resolution": "3200 x 2560",
@@ -43,27 +184,6 @@
       "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
     }, 
               
-       
-    {
-      "author_name": "Zan Cerne",
-      "wallpaper_name": "Material 21",
-      "wallpaper_id": "inswall-mat-00021",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Utik%201.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Material%20Design/Preview/Utik%201%20Preview.jpg",
-      "wallpaper_resolution": "3200 x 2560",
-      "wallpaper_size": "533 KB",
-      "upload_date": "18 dic. 2016",
-      "wallpaper_is_recent": "false",
-
-      "wallpaper_tags": "tag1|tag2|tag3",
-      "wallpaper_category": "Material Design",
-      "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "true",
-      "author_url_avatar": "https://3.bp.blogspot.com/-ViOAuSspE44/WJOYrfTWORI/AAAAAAAALmc/bGfZIdq2XE8gewIUcaVoAPJdAg6bwLOvACLcB/s1600/Zan%2BCerne%2B-%2BAvatar.png",
-      "author_url_website": "https://zheanoblog.eu",
-      "author_description": "I´m a designer from Slovenia. I'm usually designing wallpapers, widgets and icons."
-    }, 
-       
     {
       "author_name": "Zan Cerne",
       "wallpaper_name": "Material 20",
