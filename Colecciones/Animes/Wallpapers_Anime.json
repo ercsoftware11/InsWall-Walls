@@ -6,12 +6,12 @@
   "wallpapers": [
 
    {
-      "wallpaper_id": "Anime_1",
+      "wallpaper_id": "ANIME_1",
       "wallpaper_name": "Anime 1",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Anime%201.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Animes/Preview/Anime%201%20Preview.jpg",
       "wallpaper_category": "Anime",
-       "wallpaper_resolution": "1280 x 1920",
+      "wallpaper_resolution": "1280 x 1920",
       "wallpaper_size": "895 KB",
       "wallpaper_payment_type": "free",
       "wallpaper_tags": "tag1|tag2|tag3",
