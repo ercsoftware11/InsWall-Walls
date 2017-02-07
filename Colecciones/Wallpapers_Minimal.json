@@ -1,6 +1,53 @@
 {
    "wallpapers": [ 
        
+       
+       {
+      "author_name": "Unknown",
+      "wallpaper_name": "Minimal 102",
+      "wallpaper_id": "inswall-min-00102",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20102.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20102%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "384 KB",
+      "upload_date": "07 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Minimal 101",
+      "wallpaper_id": "inswall-min-000101",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20101.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20101%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "299 KB",
+      "upload_date": "07 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+       
+       
+       
+       
+       
+       
+       
      {
       "author_name": "Railsware",
       "wallpaper_name": "Minimal 100",
@@ -523,13 +570,13 @@
     },       
        
      {
-      "author_name": "Arslan Ali",
+      "author_name": "Unknown",
       "wallpaper_name": "Minimal 74",
       "wallpaper_id": "inswall-min-00074",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2074.png",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2074.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%2074%20Preview.jpg",
-      "wallpaper_resolution": "640 x 1136",
-      "wallpaper_size": "111 KB",
+      "wallpaper_resolution": "1448 x 1925",
+      "wallpaper_size": "368 KB",
       "upload_date": "15 jan. 2017",
       "wallpaper_is_recent": "false",
 
@@ -543,13 +590,13 @@
     },      
        
      {
-      "author_name": "Arslan Ali",
+      "author_name": "Unknown",
       "wallpaper_name": "Minimal 73",
       "wallpaper_id": "inswall-min-00073",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2073.png",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2073.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%2073%20Preview.jpg",
-      "wallpaper_resolution": "640 x 1136",
-      "wallpaper_size": "104 KB",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "507 KB",
       "upload_date": "15 jan. 2017",
       "wallpaper_is_recent": "false",
 
@@ -1148,7 +1195,7 @@
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2043.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2043.jpg",
       "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "56 KB",
+      "wallpaper_size": "862 KB",
       "upload_date": "18 dic. 2016",
       "wallpaper_is_recent": "false",
 
