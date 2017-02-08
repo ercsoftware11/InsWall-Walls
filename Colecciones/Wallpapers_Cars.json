@@ -10,7 +10,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.10 MB",
       "upload_date": "07 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Cars",
@@ -30,7 +30,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "725 KB",
       "upload_date": "07 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Cars",
@@ -40,10 +40,6 @@
       "author_url_website": "",
       "author_description": ""
     },       
-       
-       
-       
-       
        
     {
       "author_name": "Unknown",

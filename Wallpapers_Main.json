@@ -10,7 +10,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "569 KB",
       "upload_date": "07 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -30,7 +30,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.03 MB",
       "upload_date": "07 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -50,7 +50,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "789 KB",
       "upload_date": "07 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -70,7 +70,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.12 MB",
       "upload_date": "07 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -80,15 +80,6 @@
       "author_url_website": "",
       "author_description": ""
     }, 
-       
-       
-       
-       
-       
-       
-       
-       
-       
        
     {
       "author_name": "Rutwik Patel",
