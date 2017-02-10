@@ -1683,12 +1683,12 @@
 
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Haunter",
-      "wallpaper_id": "inswall-pok-00093",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Haunter%20v1.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Haunter%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "1 MB",
+      "wallpaper_name": "Giglipop",
+      "wallpaper_id": "inswall-pok-00089",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Giglipop%20Dark.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Giglipop%20Dark%20Preview.jpg",
+      "wallpaper_resolution": "1500 x 1500",
+      "wallpaper_size": "244 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1700,15 +1700,85 @@
       "author_url_website": "",
       "author_description": ""
     },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Mewtwo",
+      "wallpaper_id": "inswall-pok-00090",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mewtwo%20Dark.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Mewtwo%20Dark%20Preview.jpg",
+      "wallpaper_resolution": "1500 x 1500",
+      "wallpaper_size": "252 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Jolteon",
+      "wallpaper_id": "inswall-pok-00091",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Jolteon%20Dark.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Jolteon%20Dark%20Preview.jpg",
+      "wallpaper_resolution": "1500 x 1500",
+      "wallpaper_size": "257 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Vaporeon",
+      "wallpaper_id": "inswall-pok-00092",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Vaporeon%20Dark.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Vaporeon%20Dark%20Preview.jpg",
+      "wallpaper_resolution": "1500 x 1500",
+      "wallpaper_size": "258 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
 
     {
       "author_name": "Unknown",
       "wallpaper_name": "Lugia",
-      "wallpaper_id": "inswall-pok-00094",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Lugia%20v1.png",
+      "wallpaper_id": "inswall-pok-00093",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Lugia%20v1.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Lugia%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "970 KB",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "602 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1723,12 +1793,32 @@
 
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Arcanine",
+      "wallpaper_name": "Bayleef",
+      "wallpaper_id": "inswall-pok-00094",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Bayleef%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Bayleef%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "611 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Dragonair",
       "wallpaper_id": "inswall-pok-00095",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Arcanine%20v1.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Arcanine%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "1.13 MB",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Dragonair%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Dragonair%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "467 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1743,12 +1833,12 @@
 
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Rapidash",
+      "wallpaper_name": "Growlithe",
       "wallpaper_id": "inswall-pok-00096",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Rapidash%20v1.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Rapidash%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "1.12 MB",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Growlithe%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Growlithe%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "627 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1760,15 +1850,15 @@
       "author_url_website": "",
       "author_description": ""
     },
-
+       
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Meganium",
+      "wallpaper_name": "Espeon",
       "wallpaper_id": "inswall-pok-00097",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Meganium%20v1.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Meganium%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "1.07 MB",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Espeon%20v11.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Espeon%20v11%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "550 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1783,12 +1873,12 @@
 
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Chikorita",
+      "wallpaper_name": "Wartortle",
       "wallpaper_id": "inswall-pok-00098",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Chikorita%20v1.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Chikorita%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "1.08 MB",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Wartortle%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Wartortle%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "618 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1803,12 +1893,12 @@
 
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Charizard",
+      "wallpaper_name": "Dragonite",
       "wallpaper_id": "inswall-pok-00099",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Charizard%20v1.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Charizard%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "891 KB",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Dragonite%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Dragonite%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "549 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1823,12 +1913,12 @@
 
     {
       "author_name": "Unknown",
-      "wallpaper_name": "Totodile",
+      "wallpaper_name": "Leafeon",
       "wallpaper_id": "inswall-pok-00100",
-      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Totodile%20v1.png",
-      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Totodile%20v1%20Preview.jpg",
-      "wallpaper_resolution": "1080 x 1920",
-      "wallpaper_size": "1.13 MB",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Leafeon%20v11.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Leafeon%20v11%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "620 KB",
       "upload_date": "18 dic. 2016",
 
       "wallpaper_is_recent": "false",
@@ -1839,7 +1929,127 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-    }
+    },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Quilava",
+      "wallpaper_id": "inswall-pok-00101",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Quilava%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Quilava%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "622 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+       
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Mew",
+      "wallpaper_id": "inswall-pok-00102",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mew%20v11.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Mew%20v11%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "557 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Psyduck",
+      "wallpaper_id": "inswall-pok-00103",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Psyduck%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Psyduck%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "617 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Vulpix",
+      "wallpaper_id": "inswall-pok-00104",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Vulpix%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Vulpix%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "640 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Sliggoo",
+      "wallpaper_id": "inswall-pok-00105",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Sliggoo%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Sliggoo%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "466 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    } ,       
+
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Mewtwo",
+      "wallpaper_id": "inswall-pok-00106",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mewtwo%20v1.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Mewtwo%20v1%20Preview.jpg",
+      "wallpaper_resolution": "1600 x 1600",
+      "wallpaper_size": "559 KB",
+      "upload_date": "18 dic. 2016",
+
+      "wallpaper_is_recent": "false",
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }       
 
     ]
 }
