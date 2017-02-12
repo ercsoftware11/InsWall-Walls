@@ -1,6 +1,47 @@
 {
    "wallpapers": [
        
+       
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Aurora",
+      "wallpaper_id": "inswall-fan-00008",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Aurora.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Preview/Aurora%20Preview.jpg",
+      "wallpaper_resolution": "2560 x 1600",
+      "wallpaper_size": "751 KB",
+      "upload_date": "12 feb. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Fantasy",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+    {
+      "author_name": "Unknown",
+      "wallpaper_name": "Explosion",
+      "wallpaper_id": "inswall-fan-00007",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Explosion.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Preview/Explosion%20Preview.jpg",
+      "wallpaper_resolution": "2560 x 1600",
+      "wallpaper_size": "1.76 MB",
+      "upload_date": "12 feb. 2017",
+      "wallpaper_is_recent": "false",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Fantasy",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },       
+       
        {
       "author_name": "Unknown",
       "wallpaper_name": "Flame",
@@ -48,7 +89,7 @@
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Joy.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Preview/Joy%20Preview.jpg",
       "wallpaper_resolution": "2560 x 1600",
-      "wallpaper_size": "1.11 MB",
+      "wallpaper_size": "859 KB",
       "upload_date": "12 feb. 2017",
       "wallpaper_is_recent": "false",
 
@@ -68,7 +109,7 @@
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Shades.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Preview/Shades%20Preview.jpg",
       "wallpaper_resolution": "2560 x 1600",
-      "wallpaper_size": "2.63 MB",
+      "wallpaper_size": "1.05 MB",
       "upload_date": "12 feb. 2017",
       "wallpaper_is_recent": "false",
 
@@ -88,7 +129,7 @@
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Speed.jpg",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Preview/Speed%20Preview.jpg",
       "wallpaper_resolution": "2560 x 1600",
-      "wallpaper_size": "1.84 MB",
+      "wallpaper_size": "867 KB",
       "upload_date": "12 feb. 2017",
       "wallpaper_is_recent": "false",
 
@@ -108,7 +149,7 @@
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Particles.png",
       "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Fantasy/Preview/Particles%20Preview.jpg",
       "wallpaper_resolution": "2560 x 1600",
-      "wallpaper_size": "1.34 MB",
+      "wallpaper_size": "975 KB",
       "upload_date": "12 feb. 2017",
       "wallpaper_is_recent": "false",
 
