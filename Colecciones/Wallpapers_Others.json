@@ -10,7 +10,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.22 MB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -30,7 +30,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "669 KB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -50,7 +50,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "164 KB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -70,7 +70,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "953 KB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -79,11 +79,7 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-    },  
-             
-       
-       
-       
+    },
        
      {
       "author_name": "Unknown",

@@ -10,7 +10,7 @@
       "wallpaper_resolution": "3840 x 2160",
       "wallpaper_size": "836 KB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -30,7 +30,7 @@
       "wallpaper_resolution": "3840 x 2160",
       "wallpaper_size": "1.28 MB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -50,7 +50,7 @@
       "wallpaper_resolution": "2560 x 1600",
       "wallpaper_size": "124 KB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -70,7 +70,7 @@
       "wallpaper_resolution": "2560 x 1440",
       "wallpaper_size": "1.63 MB",
       "upload_date": "11 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
           
       "wallpaper_tags": "tagColor|othersTags",
       "wallpaper_category": "Wide",
@@ -80,11 +80,6 @@
       "author_url_website": "",
       "author_description": ""
     },  
-       
-       
-       
-       
-       
 
     {
       "author_name": "Unknown",
