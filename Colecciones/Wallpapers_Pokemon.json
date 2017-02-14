@@ -1,5 +1,52 @@
 {
    "wallpapers": [
+       
+     {
+      "author_name": "Rutwik Pateñ",
+      "wallpaper_name": "Pikachu",
+      "wallpaper_id": "inswall-pok-00108",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Pikachu%20Hipster.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Pikachu%20Hipster%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "479 KB",
+      "upload_date": "14 feb. 2017",
+      "wallpaper_is_recent": "true",
+         
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+
+    {
+      "author_name": "Edzon DM",
+      "wallpaper_name": "Haunter",
+      "wallpaper_id": "inswall-pok-00107",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Haunter%20Hipster.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Preview/Haunter%20Hipster%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "119 KB",
+      "upload_date": "14 feb. 2017",
+      "wallpaper_is_recent": "true",
+        
+      "wallpaper_tags": "tagColor|tagNamePersonaje|othersTags",
+      "wallpaper_category": "Pokemon",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },
+       
+       
+       
+       
+       
+       
+       
 
     {
       "author_name": "Caitlin Jansma",
