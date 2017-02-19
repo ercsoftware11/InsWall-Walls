@@ -10,7 +10,7 @@
       "wallpaper_resolution": "1280 x 1920",
       "wallpaper_size": "1.17 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -30,7 +30,7 @@
       "wallpaper_resolution": "1280 x 1920",
       "wallpaper_size": " 1.31 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -50,7 +50,7 @@
       "wallpaper_resolution": "1280 x 1920",
       "wallpaper_size": "889 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -70,7 +70,7 @@
       "wallpaper_resolution": "1280 x 1918",
       "wallpaper_size": "1.44 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -90,7 +90,7 @@
       "wallpaper_resolution": "1280 x 1920",
       "wallpaper_size": "684 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -110,7 +110,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "808 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
         
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Main",
@@ -120,16 +120,7 @@
       "author_url_website": "",
       "author_description": ""
     }, 
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
+
     {
       "author_name": "Unknown",
       "wallpaper_name": "Wall 498",

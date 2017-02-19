@@ -11,7 +11,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.14 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Girls",
@@ -31,7 +31,7 @@
       "wallpaper_resolution": "900 x 1600",
       "wallpaper_size": "1.23 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Girls",
@@ -41,19 +41,7 @@
       "author_url_website": "",
       "author_description": ""            
     },  
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
+        
     {
       "author_name": "Unknown",
       "wallpaper_name": "Girl 34",

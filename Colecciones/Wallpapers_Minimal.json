@@ -10,7 +10,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "302 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Minimal",
@@ -30,7 +30,7 @@
       "wallpaper_resolution": "1440 x 2560",
       "wallpaper_size": "841 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Minimal",
@@ -50,7 +50,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "270 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Minimal",
@@ -70,7 +70,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "297 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Minimal",
@@ -90,7 +90,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "198 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Minimal",
@@ -110,7 +110,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "188 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Minimal",
@@ -121,14 +121,7 @@
       "author_description": ""
     }, 
        
-       
-       
-       
-       
-       
-       
-       
-        {
+    {
       "author_name": "Julien",
       "wallpaper_name": "Minimal 104",
       "wallpaper_id": "inswall-min-00104",

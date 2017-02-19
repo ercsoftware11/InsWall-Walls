@@ -1,9 +1,7 @@
 {
    "wallpapers": [ 
        
-       
-       
-       
+
        {
       "author_name": "Unknown",
       "wallpaper_name": "Ingress",
@@ -13,11 +11,11 @@
       "wallpaper_resolution": "1280 x 1883",
       "wallpaper_size": "502 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
-      "wallpaper_payment_type": "free",
+      "wallpaper_payment_type": "pay",
       "wallpaper_is_active": "true",
       "author_url_avatar": "",
       "author_url_website": "",
@@ -33,11 +31,11 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "2.37 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
-      "wallpaper_payment_type": "free",
+      "wallpaper_payment_type": "pay",
       "wallpaper_is_active": "true",
       "author_url_avatar": "",
       "author_url_website": "",
@@ -53,7 +51,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "1.09 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -73,7 +71,7 @@
       "wallpaper_resolution": "2178 x 3872",
       "wallpaper_size": "1.02 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -93,7 +91,7 @@
       "wallpaper_resolution": "900 x 1600",
       "wallpaper_size": "524 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -113,7 +111,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "472 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -133,7 +131,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "514 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -153,7 +151,7 @@
       "wallpaper_resolution": "1080 x 1920",
       "wallpaper_size": "472 KB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
@@ -164,18 +162,6 @@
       "author_description": ""
     },  
 
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
-       
        {
       "author_name": "Unknown",
       "wallpaper_name": "Toxic Girl",
