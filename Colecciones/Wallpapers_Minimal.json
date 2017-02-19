@@ -1,12 +1,135 @@
 {
    "wallpapers": [ 
        
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Minimal 110",
+      "wallpaper_id": "inswall-min-00110",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20110.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20110%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "302 KB",
+      "upload_date": "19 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Minimal 109",
+      "wallpaper_id": "inswall-min-00109",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20109.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20109%20Preview.jpg",
+      "wallpaper_resolution": "1440 x 2560",
+      "wallpaper_size": "841 KB",
+      "upload_date": "19 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Minimal 108",
+      "wallpaper_id": "inswall-min-00108",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20108.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20108%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "270 KB",
+      "upload_date": "19 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+     {
+      "author_name": "Unknown",
+      "wallpaper_name": "Minimal 107",
+      "wallpaper_id": "inswall-min-000107",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20107.jpg",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20107%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "297 KB",
+      "upload_date": "19 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+
+     {
+      "author_name": "Julien",
+      "wallpaper_name": "Minimal 106",
+      "wallpaper_id": "inswall-min-00106",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20106.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20106%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "198 KB",
+      "upload_date": "19 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+     {
+      "author_name": "Julien",
+      "wallpaper_name": "Minimal 105",
+      "wallpaper_id": "inswall-min-00105",
+      "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20105.png",
+      "wallpaper_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Preview/Minimal%20105%20Preview.jpg",
+      "wallpaper_resolution": "1080 x 1920",
+      "wallpaper_size": "188 KB",
+      "upload_date": "19 feb. 2017",
+      "wallpaper_is_recent": "true",
+
+      "wallpaper_tags": "tag1|tag2|tag3",
+      "wallpaper_category": "Minimal",
+      "wallpaper_payment_type": "free",
+      "wallpaper_is_active": "true",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+       
+       
+       
        
        
        
        
         {
-      "author_name": "Edzon DM",
+      "author_name": "Julien",
       "wallpaper_name": "Minimal 104",
       "wallpaper_id": "inswall-min-00104",
       "wallpaper_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%20104.png",
