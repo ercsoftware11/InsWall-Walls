@@ -31,12 +31,12 @@
       "wallpaper_resolution": "3840 x 2160",
       "wallpaper_size": "1.36 MB",
       "upload_date": "19 feb. 2017",
-      "wallpaper_is_recent": "true",
+      "wallpaper_is_recent": "false",
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Cars",
       "wallpaper_payment_type": "free",
-      "wallpaper_is_active": "false",
+      "wallpaper_is_active": "true",
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""

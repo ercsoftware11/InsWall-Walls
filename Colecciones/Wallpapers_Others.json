@@ -15,7 +15,7 @@
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
-      "wallpaper_payment_type": "pay",
+      "wallpaper_payment_type": "false",
       "wallpaper_is_active": "true",
       "author_url_avatar": "",
       "author_url_website": "",
@@ -35,7 +35,7 @@
 
       "wallpaper_tags": "tag1|tag2|tag3",
       "wallpaper_category": "Others",
-      "wallpaper_payment_type": "pay",
+      "wallpaper_payment_type": "false",
       "wallpaper_is_active": "true",
       "author_url_avatar": "",
       "author_url_website": "",
